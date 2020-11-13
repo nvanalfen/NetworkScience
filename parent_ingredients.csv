@@ -1,0 +1,25 @@
+﻿Parent,Ingredients,Use
+oil,"['cooking oil','vegetable oil','olive oil','sesame oil','corn oil','oil','canola oil']",1
+meat,"['beef','chicken','lamb','bacon','chorizo','ham','prime rib','sausage','steak','veal','mince meat','short rib','turkey','sirloin','chuck roast']",0
+mushroom,"['mushroom','shimeji mushrooms','enoki mushrooms','shiitake mushroom','button mushroom']",0
+pepper (vegetable),"['cubanelle pepper','green pepper','yellow pepper','red pepper','green bell pepper','chili pepper','red bell pepper','bell pepper','red hot pepper']",0
+pepper (spice),"['pepper','black pepper','ground pepper','white peppercorn','black peppercorn','peppercorn','white pepper']",0
+tomato,"['tomato','tomato paste','tomato sauce']",0
+vanilla,"['vanilla','vanilla essence','vanilla extract','vanilla sugar']",0
+salt,"['salt','sea salt']",0
+onion,"['onion','red onion','green onion','yellow onion','scallion']",1
+sugar,"['sugar','powdered sugar']",0
+egg,"['egg','egg white','egg yolk']",1
+cheese,"['cheese','kasseri cheese','goat cheese','monterey jack cheese','cheddar cheese','mozzarella cheese','parmesan cheese','muenster cheese','ricotta cheese','american cheese','provolone cheese','swiss cheese']",0
+seafood,"['bonito','eel','fish','fish cake','fish stock','herring','lobster','octopus','prawn','salmon','shrimp','tuna','anchovy','mussel']",0
+alcohol,"['scotch','sake','anise-flavored liqueur','sherry wine','red wine']",0
+vinegar,"['vinegar','black vinegar','red wine vinegar','sherry wine vinegar','rice vinegar']",1
+flour (all),"['sweet rice flour','rye flour','potato flour','flour','white bread flour','garbanzo flour']",0
+flour (non-sweet),"['rye flour','potato flour','flour','white bread flour','garbanzo flour']",0
+noodle,"['noodle','udon noodle','soba noodle','chinese noodle','ramen noodle']",0
+dulce de leche,['sweetened condensed milk'],0
+cream,"['cream','heavy cream','light cream','whipping cream','sour cream','crème fraîche']",0
+milk,"['milk','evaporated milk','sweetened condensed milk']",1
+butter,"['butter','margarine']",1
+phyllo dough,"['phyllo','phyllo dough','phyllo pastry']",0
+yogurt,"['yogurt','yoghurt']",1
