@@ -202,9 +202,17 @@ def cumulative_edge_weight_distribution(edges):
     
     return weights, prob
 
-def get_cliques(nodes, edges, threshold=0, min_nodes=3):
-    cliques = []
-    # TODO : finish
+# Cast our edges and nodes into a networkx graph
+def to_nx_graph(nodes, edges, weighted=True):
+    G = nx.Graph()
+    for node in nodes:
+        G.add_node(node)
+    for edge in edges:
+        if weighted:
+            G.add_edge(edge[0], edge[1], weight=edge[2])
+        else:
+            G.add_edge(edge[0], edge[1])
+    return G
 
 def plot(x, y, label, scatter=True):
     figure = plt.figure()
