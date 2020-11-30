@@ -94,7 +94,11 @@ def add_undirected_weight(source, target, foods, edges):
     if weight != 0:
         edges.append( (source, target, weight) )
 
-def create_undirected_weighted_network(f_name, remove_ingredients=None, parent_ingredients=None):
+def create_undirected_weighted_network(f_name, remove_ingredients=None, parent_ingredients_f_name=None):
+    parent_ingredients = None
+    if not parent_ingredients_f_name is None:
+        parent_ingredients = get_parent_ingredients_to_exclude(parent_ingredients_f_name)
+    
     foods = read_ingredients(f_name, remove_ingredients, parent_ingredients)
     edges = []
     keys = list( foods.keys() )
