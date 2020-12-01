@@ -9,6 +9,7 @@ from RecipeScraper import read_master, unpack_list
 import matplotlib.pyplot as plt
 import pandas as pd
 import networkx as nx
+import numpy as np
 
 def write_edgelist(f_name, edges, header=None, spacer="\t"):
     file = open(f_name, "w", encoding="utf-8")
@@ -213,6 +214,49 @@ def to_nx_graph(nodes, edges, weighted=True):
         else:
             G.add_edge(edge[0], edge[1])
     return G
+
+# Returns a list or dict of ingredients and in what proportion of recipes they appear
+def ingredient_frequency(foods, return_dict=False, sort=True, reverse=True):
+    freq = {}
+    for key in foods:
+        for ingredient in foods[key]:
+            if not ingredient in freq:
+                freq[ingredient] = 0
+            freq[ingredient] += 1
+    
+    for key in freq:
+        freq[key] /= len(foods)
+        
+    if return_dict:
+        return freq
+    
+    new_freq = []
+    for key in freq:
+        new_freq.append( [key, freq[key]] )
+    
+    if sort:
+        new_freq.sort( key=lambda x:x[1], reverse=reverse )
+            
+    return new_freq
+
+# Takes a table in the format returned by the functions in backboning.py and converts it to a networkx graph
+# Also pass in the full list of nodes to account for isolated nodes
+def graph_from_table(nodes,table):
+    G = nx.Graph()
+    for node in nodes:
+        G.add_node(node)
+    
+    sources = np.unique( table["src"] )
+
+    for src in sources:
+        for trg in table[ table["src"] == src ]["trg"]:
+            edge_weight = float( table[ (table["src"] == src) & (table["trg"] == trg) ]["nij"] )
+            G.add_edge(src, trg, weight=edge_weight)
+    
+    return G
+
+def null_model():
+    pass
 
 def plot(x, y, label, scatter=True):
     figure = plt.figure()
