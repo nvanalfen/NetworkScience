@@ -29,6 +29,16 @@ def write_edgelist(f_name, edges, header=None, spacer="\t"):
             file.write("\n")
     file.close()
 
+def write_edgelist_from_graph(f_name, G, weight_keyword=None, header=None, spacer="\t"):
+    edges = []
+    for e in G.edges(data=True):
+        row = [e[0], e[1]]
+        if not weight_keyword is None:
+            row.append(e[2][weight_keyword])
+        edges.append(row)
+    
+    write_edgelist(f_name, edges, header=header, spacer=spacer)
+
 # Reading ingredients from the master Excel file gives list. This turns those lists into sets
 def convert_ingredients_to_sets(foods):
     new_foods = {}
@@ -255,8 +265,23 @@ def graph_from_table(nodes,table):
     
     return G
 
-def null_model():
-    pass
+# Reads in csv from Gephi where communities have already been detected by modularity class
+# Finds out how often different countries appear in different communities
+def community_country_distribution(f_name, giant_only=True):
+    data = pd.read_csv(f_name)
+    if giant_only:
+        data = data[ data["componentnumber"] == 0 ]
+    
+    mod_class = {}              # dict from modularity class number to another dict from country to frequency of occurances in that class
+    for c in np.unique( data["modularity_class"] ):
+        freq = {}
+        for country in data[ data["modularity_class"] == c ]["country"]:
+            if not country in freq:
+                freq[country] = 0
+            freq[country] += 1
+        mod_class[c] = freq
+    
+    return mod_class
 
 def plot(x, y, label, scatter=True):
     figure = plt.figure()
