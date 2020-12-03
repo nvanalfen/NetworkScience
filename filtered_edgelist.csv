@@ -1,0 +1,2080 @@
+src,trg,weight
+Sweet and sour red cabbage,Tsukemono,0.2
+Sweet and sour red cabbage,Boulets Liégeoise,0.14285714285714285
+Flygande Jacob,Arroz con pollo,0.25
+Flygande Jacob,Yaki Udon,0.14285714285714285
+Flygande Jacob,Omurice,0.2307692307692308
+Flygande Jacob,Cazuela Gaucho,0.13636363636363635
+Flygande Jacob,Fried Chicken Waffles,0.13333333333333333
+Flygande Jacob,Clam Chowder,0.13333333333333333
+Flygande Jacob,Pot Roast,0.13333333333333333
+Flygande Jacob,Tahcheen,0.14285714285714285
+Flygande Jacob,Joojeh labab,0.16666666666666666
+Flygande Jacob,Morgh polou,0.21428571428571427
+Flygande Jacob,Kadinbudu köfte,0.13333333333333333
+Flygande Jacob,Stoemp Aux Carottes,0.14285714285714285
+Flygande Jacob,Vol-Au-Vent,0.13333333333333333
+Inkokt Lax,Toast Skagen,0.15
+Inkokt Lax,Inladg Sill,0.2631578947368421
+Inkokt Lax,Julskinka,0.125
+Inkokt Lax,Pinchitos,0.14285714285714285
+Inkokt Lax,Berenjenas en Escabeche,0.1111111111111111
+Inkokt Lax,Macaroni Salad,0.15789473684210525
+Inkokt Lax,Osso Bucco,0.12
+Inkokt Lax,Lamb chops,0.1111111111111111
+Inkokt Lax,Konijn Met Bier,0.14285714285714285
+Brunkål,Tsukemono,0.3333333333333333
+Brunkål,Karaage,0.16666666666666666
+Brunkål,Lamb chops,0.2
+Kavring,Knäckebröd,0.25
+Kavring,Hönökaka,0.15384615384615385
+Stekt strömming,Korvstroganoff,0.16666666666666666
+Blåbärssmulpaj,Våfflor,0.25
+Blåbärssmulpaj,Beignets,0.25
+Blåbärssmulpaj,Key Lime Bars,0.25
+Blåbärssmulpaj,Ciambella,0.25
+Blåbärssmulpaj,Sfenj,0.2857142857142857
+Blåbärssmulpaj,Boyoz,0.2
+Korvstroganoff,Hasselbackspotatis,0.16666666666666666
+Korvstroganoff,Pan con Tomate,0.2
+Korvstroganoff,Costillas de cerdo a la riojana,0.16666666666666666
+Korvstroganoff,Jambalaya,0.15384615384615385
+Korvstroganoff,Mirza Ghasemi,0.16666666666666666
+Korvstroganoff,Tabouleh,0.2857142857142857
+Raggmunk,Hönökaka,0.2222222222222222
+Raggmunk,Kåldomar,0.2
+Raggmunk,Janssons Frestelse,0.25
+Raggmunk,Kanelbullar,0.3333333333333333
+Raggmunk,Våfflor,0.2857142857142857
+Raggmunk,Roscón de Reyes,0.2222222222222222
+Raggmunk,Croquetas de papa,0.2307692307692308
+Raggmunk,Natillas,0.3333333333333333
+Raggmunk,Croquetas de jamón,0.3333333333333333
+Raggmunk,Korokke,0.3333333333333333
+Raggmunk,Karaage,0.2
+Raggmunk,Tonkotsu Ramen,0.25
+Raggmunk,Bolas de Fraile,0.4
+Raggmunk,Fainá,0.2
+Raggmunk,Fugazza,0.2857142857142857
+Raggmunk,Mac and Cheese,0.5
+Raggmunk,Corn Bread,0.3333333333333333
+Raggmunk,Beignets,0.2857142857142857
+Raggmunk,Fried Chicken Waffles,0.2222222222222222
+Raggmunk,Chicken Fried Steak,0.375
+Raggmunk,Clam Chowder,0.2222222222222222
+Raggmunk,Chicken Pot Pie,0.18181818181818185
+Raggmunk,Onion Rings,0.4
+Raggmunk,Pancakes,0.4
+Raggmunk,Lasagne alla bolognese,0.17647058823529413
+Raggmunk,Vegetable Fritto Misto,0.18181818181818185
+Raggmunk,Chicken Saltimbocca,0.2222222222222222
+Raggmunk,Polpette,0.375
+Raggmunk,Ghormeh Sabzi,0.16666666666666666
+Raggmunk,Koufteh ghelgheli,0.2222222222222222
+Raggmunk,Latkeh,0.42857142857142855
+Raggmunk,Rugelach,0.16666666666666666
+Raggmunk,Khachapuri,0.2
+Raggmunk,Simit,0.4
+Raggmunk,Kazandibi,0.2857142857142857
+Raggmunk,Keşkül,0.2857142857142857
+Raggmunk,Kiymali pide,0.16666666666666666
+Raggmunk,Yayla çorbası,0.25
+Raggmunk,Waffles,0.3333333333333333
+Raggmunk,Fish Balls,0.2222222222222222
+Raggmunk,Gegratineerd Witloof,0.18181818181818185
+Raggmunk,Oliebollen,0.25
+Raggmunk,Carbonnade À La Flamande,0.2
+Toast Skagen,Roscón de Reyes,0.14285714285714285
+Toast Skagen,Vegetable Fritto Misto,0.125
+Knäckebröd,Hönökaka,0.4
+Knäckebröd,Kanelbullar,0.2222222222222222
+Knäckebröd,Våfflor,0.2
+Knäckebröd,Fugazza,0.2
+Knäckebröd,Beignets,0.2
+Knäckebröd,Naan-e barbari,0.2
+Knäckebröd,Nan-e taftoon,0.25
+Knäckebröd,Jerusalem bagels,0.25
+Knäckebröd,Sufganiot,0.18181818181818185
+Knäckebröd,Challa bread,0.25
+Knäckebröd,Sfenj,0.2222222222222222
+Knäckebröd,Pide,0.2857142857142857
+Knäckebröd,Oliebollen,0.18181818181818185
+Hasselbackspotatis,Janssons Frestelse,0.2857142857142857
+Hasselbackspotatis,Croquetas de papa,0.15384615384615385
+Hasselbackspotatis,Korokke,0.4
+Hasselbackspotatis,Kugel,0.2
+Hasselbackspotatis,Turlu,0.18181818181818185
+Hasselbackspotatis,Frieten,0.3333333333333333
+Hasselbackspotatis,Salade Liégeoise,0.2
+Hönökaka,Kanelbullar,0.375
+Hönökaka,Roscón de Reyes,0.2727272727272727
+Hönökaka,Natillas,0.2222222222222222
+Hönökaka,Croquetas de jamón,0.2222222222222222
+Hönökaka,Nikuman,0.16666666666666666
+Hönökaka,Bolas de Fraile,0.25
+Hönökaka,Fugazza,0.3333333333333333
+Hönökaka,Corn Bread,0.2222222222222222
+Hönökaka,Beignets,0.3333333333333333
+Hönökaka,Onion Rings,0.25
+Hönökaka,Pancakes,0.25
+Hönökaka,Nan-e taftoon,0.25
+Hönökaka,Jerusalem bagels,0.25
+Hönökaka,Challa bread,0.25
+Hönökaka,Sfenj,0.2222222222222222
+Hönökaka,Khachapuri,0.25
+Hönökaka,Babka,0.25
+Hönökaka,Simit,0.25
+Hönökaka,Pide,0.2857142857142857
+Hönökaka,Waffles,0.2222222222222222
+Hönökaka,Oliebollen,0.3
+Inladg Sill,Julskinka,0.2727272727272727
+Inladg Sill,Gravlax,0.125
+Inladg Sill,Miso Ramen,0.1176470588235294
+Inladg Sill,Karaage,0.125
+Inladg Sill,Berenjenas en Escabeche,0.14285714285714285
+Inladg Sill,Matambre,0.13333333333333333
+Kåldomar,Ärtsoppa,0.15384615384615385
+Kåldomar,Nikuman,0.15789473684210525
+Kåldomar,Omurice,0.16666666666666666
+Kåldomar,Gyuudon,0.16666666666666666
+Kåldomar,Mac and Cheese,0.18181818181818185
+Kåldomar,Fried Chicken Waffles,0.15384615384615385
+Kåldomar,Pernil,0.2
+Kåldomar,Lasagne alla bolognese,0.2
+Kåldomar,Porchetta sandwich,0.15384615384615385
+Kåldomar,Adas polo,0.2727272727272727
+Kåldomar,Tahcheen,0.16666666666666666
+Kåldomar,Barg kabab,0.2
+Kåldomar,Latkeh,0.16666666666666666
+Kåldomar,Biber Dolmasi,0.2307692307692308
+Kåldomar,Yayla çorbası,0.16666666666666666
+Kåldomar,Boulets Liégeoise,0.17647058823529413
+Janssons Frestelse,Våfflor,0.2222222222222222
+Janssons Frestelse,CROQUETAS DE ATÚN,0.17647058823529413
+Janssons Frestelse,Croquetas de jamón,0.25
+Janssons Frestelse,Korokke,0.25
+Janssons Frestelse,Omurice,0.2
+Janssons Frestelse,Milanesa de peceto,0.2222222222222222
+Janssons Frestelse,Asado de Tira,0.2857142857142857
+Janssons Frestelse,Locro,0.2
+Janssons Frestelse,Salisbury Steak,0.25
+Janssons Frestelse,Fried Chicken Waffles,0.18181818181818185
+Janssons Frestelse,Clam Chowder,0.18181818181818185
+Janssons Frestelse,Kookoo sibzamin,0.2222222222222222
+Janssons Frestelse,Kabab koubideh,0.2222222222222222
+Janssons Frestelse,Schnitzel,0.2
+Janssons Frestelse,Turlu,0.2307692307692308
+Janssons Frestelse,Meatloaf,0.125
+Janssons Frestelse,Stoemp Aux Carottes,0.2
+Kalops,Köttbullar,0.16666666666666666
+Kalops,Milanesa de peceto,0.25
+Kalops,Matambre Relleno,0.2
+Kalops,Ragu alla bolognese,0.125
+Kalops,Boyoz,0.2
+Kalops,Kiymali pide,0.15384615384615385
+Kalops,Boulets Liégeoise,0.21428571428571427
+Kalops,Stoofvlees,0.2
+Kalops,Carbonnade À La Flamande,0.3
+Julskinka,Tamagoyaki,0.2
+Julskinka,Berenjenas en Escabeche,0.25
+Julskinka,Konijn Met Bier,0.16666666666666666
+Ärtsoppa,Bocadillo de queso y jamon,0.2
+Ärtsoppa,Matambre,0.16666666666666666
+Ärtsoppa,Stromboli,0.125
+Ärtsoppa,Pernil,0.2222222222222222
+Ärtsoppa,Pot Roast,0.2727272727272727
+Ärtsoppa,minestrone soup,0.2307692307692308
+Ärtsoppa,Osso Bucco,0.16666666666666666
+Ärtsoppa,Antipasti,0.16666666666666666
+Ärtsoppa,Khoreshte Karafs,0.16666666666666666
+Ärtsoppa,Patlicanli pilav,0.15384615384615385
+Kanelbullar,Våfflor,0.2857142857142857
+Kanelbullar,Roscón de Reyes,0.375
+Kanelbullar,Natillas,0.3333333333333333
+Kanelbullar,Croquetas de jamón,0.3333333333333333
+Kanelbullar,Nikuman,0.2
+Kanelbullar,Bolas de Fraile,0.4
+Kanelbullar,Torta Negra Galesa,0.125
+Kanelbullar,Fugazza,0.5
+Kanelbullar,Mac and Cheese,0.2857142857142857
+Kanelbullar,Corn Bread,0.3333333333333333
+Kanelbullar,Beignets,0.5
+Kanelbullar,Chicken Fried Steak,0.2222222222222222
+Kanelbullar,Onion Rings,0.4
+Kanelbullar,Pancakes,0.4
+Kanelbullar,Naan-e barbari,0.2857142857142857
+Kanelbullar,Nan-e taftoon,0.4
+Kanelbullar,Jerusalem bagels,0.4
+Kanelbullar,Latkeh,0.25
+Kanelbullar,Sufganiot,0.25
+Kanelbullar,Rugelach,0.16666666666666666
+Kanelbullar,Challa bread,0.4
+Kanelbullar,Sfenj,0.3333333333333333
+Kanelbullar,Khachapuri,0.3333333333333333
+Kanelbullar,Babka,0.3333333333333333
+Kanelbullar,Simit,0.4
+Kanelbullar,Kazandibi,0.2857142857142857
+Kanelbullar,Keşkül,0.2857142857142857
+Kanelbullar,Pide,0.5
+Kanelbullar,Kiymali pide,0.16666666666666666
+Kanelbullar,Yayla çorbası,0.25
+Kanelbullar,Waffles,0.3333333333333333
+Kanelbullar,Gegratineerd Witloof,0.18181818181818185
+Kanelbullar,Oliebollen,0.42857142857142855
+Våfflor,Natillas,0.2857142857142857
+Våfflor,Croquetas de jamón,0.2857142857142857
+Våfflor,Rosquillas,0.25
+Våfflor,Okonomiyaki,0.16666666666666666
+Våfflor,Nikuman,0.1875
+Våfflor,Kasutera,0.3333333333333333
+Våfflor,Bolas de Fraile,0.6
+Våfflor,Fugazzeta,0.2222222222222222
+Våfflor,Bread Pudding,0.2307692307692308
+Våfflor,Mac and Cheese,0.25
+Våfflor,Corn Bread,0.5
+Våfflor,Chicken Fried Steak,0.2
+Våfflor,Onion Rings,0.6
+Våfflor,Pancakes,0.6
+Våfflor,Cassata,0.13333333333333333
+Våfflor,Ciambella,0.25
+Våfflor,Falafel,0.16666666666666666
+Våfflor,Latkeh,0.375
+Våfflor,Simit,0.3333333333333333
+Våfflor,Keşkül,0.25
+Våfflor,Yayla çorbası,0.2222222222222222
+Våfflor,Waffles,0.5
+Våfflor,Belgian Loaf,0.2307692307692308
+Kladdkakka,Cassata,0.15384615384615385
+Kladdkakka,Rugelach,0.18181818181818185
+Kladdkakka,Tulumba,0.25
+Kladdkakka,Boyoz,0.3333333333333333
+Kladdkakka,Pide,0.25
+Köttbullar,Milanesa de peceto,0.16666666666666666
+Köttbullar,Lasagne alla bolognese,0.13636363636363635
+Köttbullar,Heart Meatball sandwich,0.14285714285714285
+Köttbullar,Ragu alla bolognese,0.15789473684210525
+Köttbullar,Kabab koubideh,0.16666666666666666
+Köttbullar,Schnitzel,0.15384615384615385
+Köttbullar,Islim Kebabi,0.16666666666666666
+Köttbullar,Boulets Liégeoise,0.16666666666666666
+Fruktsoppa,Bread Pudding,0.1875
+Fruktsoppa,Morgh polou,0.25
+Fruktsoppa,Babka,0.14285714285714285
+Fruktsoppa,Stuffed vine leaves,0.1875
+Fruktsoppa,Midye Dolma,0.17647058823529413
+Fruktsoppa,Oliebollen,0.16666666666666666
+Sillsalat,Belgian Endive,0.25
+Gubbröra,Croquetas de papa,0.15384615384615385
+Gubbröra,Pacú Asado,0.2
+Gubbröra,Trucha a la Plancha,0.2
+Gubbröra,Ashe reshteh,0.15384615384615385
+Gubbröra,Lox,0.16666666666666666
+Gubbröra,Borek,0.2222222222222222
+Espinacas con Garbonzos,Hummus,0.3333333333333333
+Espinacas con Garbonzos,Falafel,0.2
+Panelletes,Pastafrola,0.25
+Panelletes,Halva,0.2222222222222222
+Panelletes,Masghati,0.2222222222222222
+Panelletes,Sholeh-zard,0.2
+Panelletes,Baklava,0.14285714285714285
+Panelletes,Keşkül,0.2222222222222222
+Bocadillo de queso y jamon,Sofrito,0.2
+Bocadillo de queso y jamon,Pan con Tomate,0.16666666666666666
+Bocadillo de queso y jamon,Tamagoyaki,0.16666666666666666
+Bocadillo de queso y jamon,Stromboli,0.14285714285714285
+Bocadillo de queso y jamon,Club Sandwich,0.2727272727272727
+Bocadillo de queso y jamon,Bulgur pilavı,0.2
+Mojo Picon,Pinchitos,0.25
+Mojo Picon,Tsukemono,0.16666666666666666
+Mojo Picon,Fried Chicken Waffles,0.2
+Mojo Picon,Schnitzel,0.2222222222222222
+CROQUETAS DE ATÚN,Croquetas de papa,0.2380952380952381
+CROQUETAS DE ATÚN,Marmitako,0.2352941176470588
+CROQUETAS DE ATÚN,Pisto,0.15
+CROQUETAS DE ATÚN,Escalivada,0.25
+CROQUETAS DE ATÚN,Katsudon,0.15
+CROQUETAS DE ATÚN,Korokke,0.2
+CROQUETAS DE ATÚN,Guiso,0.18181818181818185
+CROQUETAS DE ATÚN,Milanesa de peceto,0.1875
+CROQUETAS DE ATÚN,Tomates Rellenos,0.2
+CROQUETAS DE ATÚN,Chicken Pot Pie,0.15
+CROQUETAS DE ATÚN,Chicken Parmesean,0.15789473684210525
+CROQUETAS DE ATÚN,Lasagne alla bolognese,0.15384615384615385
+CROQUETAS DE ATÚN,Osso Bucco,0.16666666666666666
+CROQUETAS DE ATÚN,Osso Bucco alla milanese,0.16666666666666666
+CROQUETAS DE ATÚN,Polpette,0.16666666666666666
+CROQUETAS DE ATÚN,Abgousht,0.15
+CROQUETAS DE ATÚN,Kabab koubideh,0.1875
+CROQUETAS DE ATÚN,Falafel,0.15
+CROQUETAS DE ATÚN,Israeli salad,0.2352941176470588
+CROQUETAS DE ATÚN,Tabouleh,0.1875
+CROQUETAS DE ATÚN,Matzo balls,0.16666666666666666
+CROQUETAS DE ATÚN,Schnitzel,0.17647058823529413
+CROQUETAS DE ATÚN,kisir,0.15789473684210525
+CROQUETAS DE ATÚN,Borek,0.15789473684210525
+CROQUETAS DE ATÚN,Alinazik kebab,0.15
+CROQUETAS DE ATÚN,Turlu,0.2631578947368421
+CROQUETAS DE ATÚN,İzmir köfte,0.3333333333333333
+CROQUETAS DE ATÚN,Kadinbudu köfte,0.16666666666666666
+CROQUETAS DE ATÚN,Biber Dolmasi,0.15789473684210525
+CROQUETAS DE ATÚN,Kabak Mücveri,0.17647058823529413
+CROQUETAS DE ATÚN,Stoemp Aux Carottes,0.17647058823529413
+CROQUETAS DE ATÚN,Gegratineerd Witloof,0.15
+CROQUETAS DE ATÚN,Carbonnade À La Flamande,0.15789473684210525
+Roscón de Reyes,Natillas,0.2222222222222222
+Roscón de Reyes,Croquetas de jamón,0.2222222222222222
+Roscón de Reyes,Nikuman,0.16666666666666666
+Roscón de Reyes,Bolas de Fraile,0.25
+Roscón de Reyes,Torta Negra Galesa,0.16666666666666666
+Roscón de Reyes,Pastafrola,0.2222222222222222
+Roscón de Reyes,Fugazza,0.3333333333333333
+Roscón de Reyes,Bread Pudding,0.2
+Roscón de Reyes,Corn Bread,0.2222222222222222
+Roscón de Reyes,Beignets,0.3333333333333333
+Roscón de Reyes,Onion Rings,0.25
+Roscón de Reyes,Pancakes,0.25
+Roscón de Reyes,Osso Bucco,0.16666666666666666
+Roscón de Reyes,Nan-e taftoon,0.25
+Roscón de Reyes,Jerusalem bagels,0.25
+Roscón de Reyes,Challa bread,0.25
+Roscón de Reyes,Sfenj,0.2222222222222222
+Roscón de Reyes,Khachapuri,0.25
+Roscón de Reyes,Babka,0.5
+Roscón de Reyes,Simit,0.25
+Roscón de Reyes,Pide,0.2857142857142857
+Roscón de Reyes,Waffles,0.2222222222222222
+Roscón de Reyes,Croquettes Aux Crevettes Grises,0.1875
+Roscón de Reyes,Gegratineerd Witloof,0.2307692307692308
+Roscón de Reyes,Oliebollen,0.3
+Sopa de Albóndigas,Empanadas,0.16666666666666666
+Sopa de Albóndigas,Ensalada Criolla,0.16666666666666666
+Sopa de Albóndigas,Cazuela Gaucho,0.14285714285714285
+Sopa de Albóndigas,Guiso,0.2352941176470588
+Sopa de Albóndigas,Carbonada Criolla,0.16666666666666666
+Sopa de Albóndigas,Milanesa de peceto,0.2727272727272727
+Sopa de Albóndigas,Asado de Tira,0.2
+Sopa de Albóndigas,Chop Suey,0.1875
+Sopa de Albóndigas,Chicken Pot Pie,0.2
+Sopa de Albóndigas,Ragu alla bolognese,0.2222222222222222
+Sopa de Albóndigas,Risotto alla milanese,0.15384615384615385
+Sopa de Albóndigas,Osso Bucco alla milanese,0.15
+Sopa de Albóndigas,Abgousht,0.2
+Sopa de Albóndigas,Loubia polow,0.2857142857142857
+Sopa de Albóndigas,Gheyme Nesar,0.2222222222222222
+Sopa de Albóndigas,İzmir köfte,0.1875
+Sopa de Albóndigas,Boulets Liégeoise,0.16666666666666666
+Sopa de Albóndigas,Stoemp Aux Carottes,0.25
+Sopa de Albóndigas,Booyah,0.26666666666666666
+Sopa de Albóndigas,Carbonnade À La Flamande,0.21428571428571427
+Sofrito,Empanadas,0.5833333333333334
+Sofrito,Cocido Madrileño,0.13333333333333333
+Sofrito,Escalivada,0.18181818181818185
+Sofrito,Huevos en Colchón de arvejas,0.2
+Sofrito,Carbonada Criolla,0.1875
+Sofrito,Milanesa de peceto,0.2
+Sofrito,Tomates Rellenos,0.2222222222222222
+Sofrito,Fugazzeta,0.18181818181818185
+Sofrito,Macaroni Salad,0.15384615384615385
+Sofrito,Chop Suey,0.21428571428571427
+Sofrito,Antipasti,0.16666666666666666
+Sofrito,Penne all'arrabbiata,0.13333333333333333
+Sofrito,İzmir köfte,0.21428571428571427
+Sofrito,Bulgur pilavı,0.2727272727272727
+Sofrito,Menemen,0.3333333333333333
+Empanadas,Carbonada Criolla,0.2
+Empanadas,Milanesa de peceto,0.21428571428571427
+Empanadas,Fugazzeta,0.2
+Empanadas,Chop Suey,0.29411764705882354
+Empanadas,Ragu alla bolognese,0.13636363636363635
+Empanadas,Mirza Ghasemi,0.15384615384615385
+Empanadas,Alinazik kebab,0.2352941176470588
+Empanadas,Kiymali pide,0.15789473684210525
+Empanadas,İzmir köfte,0.2222222222222222
+Empanadas,Biber Dolmasi,0.25
+Empanadas,Bulgur pilavı,0.1875
+Empanadas,Menemen,0.21428571428571427
+Empanadas,Karniyarik,0.16666666666666666
+Empanadas,Booyah,0.15789473684210525
+Croquetas de papa,Pollo al ajillo,0.15384615384615385
+Croquetas de papa,Korokke,0.2307692307692308
+Croquetas de papa,Karaage,0.17647058823529413
+Croquetas de papa,Carpaccio,0.21428571428571427
+Croquetas de papa,Vegetable Fritto Misto,0.2352941176470588
+Croquetas de papa,Shrimp Scampi with Pasta,0.16666666666666666
+Croquetas de papa,Polpette,0.26666666666666666
+Croquetas de papa,Ghormeh Sabzi,0.15789473684210525
+Croquetas de papa,Ashe reshteh,0.14285714285714285
+Croquetas de papa,Mahi polow,0.17647058823529413
+Croquetas de papa,Koufteh ghelgheli,0.1875
+Croquetas de papa,Dolmeh,0.16666666666666666
+Croquetas de papa,Ash-e jo,0.16666666666666666
+Croquetas de papa,Gheyme Nesar,0.19047619047619047
+Croquetas de papa,Falafel,0.16666666666666666
+Croquetas de papa,kisir,0.17647058823529413
+Croquetas de papa,Islim Kebabi,0.2
+Croquetas de papa,Tulumba,0.16666666666666666
+Croquetas de papa,Mercimek Kofte,0.1875
+Croquetas de papa,Alinazik kebab,0.16666666666666666
+Croquetas de papa,Turlu,0.15789473684210525
+Croquetas de papa,Alinazik Kebab,0.15
+Croquetas de papa,İzmir köfte,0.15789473684210525
+Croquetas de papa,Karniyarik,0.16666666666666666
+MONTADITO DE TORTILLA DE PATATAS,Marmitako,0.2
+MONTADITO DE TORTILLA DE PATATAS,Pisto,0.2727272727272727
+MONTADITO DE TORTILLA DE PATATAS,Escalivada,0.2222222222222222
+MONTADITO DE TORTILLA DE PATATAS,Chupín de pescado,0.2222222222222222
+MONTADITO DE TORTILLA DE PATATAS,Abgousht,0.16666666666666666
+MONTADITO DE TORTILLA DE PATATAS,Loubia polow,0.16666666666666666
+MONTADITO DE TORTILLA DE PATATAS,Shakshuka,0.2857142857142857
+MONTADITO DE TORTILLA DE PATATAS,Frieten,0.2
+Gambas a la sal,Ebi Nigiri,0.25
+Gambas a la sal,Pacú Asado,0.25
+Gambas a la sal,Dorada a la Plancha,0.3333333333333333
+Gambas a la sal,Bistecca Alla Fiorentina,0.25
+Gambas a la sal,Croquettes Aux Crevettes Grises,0.16666666666666666
+Pan con Tomate,Arroz con huevos,0.16666666666666666
+Pan con Tomate,Costillas de cerdo a la riojana,0.25
+Pan con Tomate,Tomates Rellenos,0.2
+Pan con Tomate,Club Sandwich,0.2222222222222222
+Pan con Tomate,Mirza Ghasemi,0.25
+Pan con Tomate,Shakshuka,0.2
+Pan con Tomate,Croque Madame,0.25
+Arroz con pollo,Gambas al ajillo,0.2
+Arroz con pollo,Omurice,0.2307692307692308
+Arroz con pollo,Cazuela Gaucho,0.13636363636363635
+Arroz con pollo,Guiso,0.15789473684210525
+Arroz con pollo,Trucha a la Plancha,0.18181818181818185
+Arroz con pollo,Tomates Rellenos,0.16666666666666666
+Arroz con pollo,Buffalo Wings,0.16666666666666666
+Arroz con pollo,Chicken Parmesean,0.2
+Arroz con pollo,Osso Bucco alla milanese,0.14285714285714285
+Arroz con pollo,Joojeh labab,0.16666666666666666
+Arroz con pollo,Morgh polou,0.21428571428571427
+Arroz con pollo,Hummus,0.15384615384615385
+Arroz con pollo,Patlicanli pilav,0.2
+Arroz con pollo,İzmir köfte,0.17647058823529413
+Arroz con pollo,Kadinbudu köfte,0.21428571428571427
+Natillas,Croquetas de jamón,0.3333333333333333
+Natillas,Bolas de Fraile,0.4
+Natillas,Torta Negra Galesa,0.125
+Natillas,Fugazza,0.2857142857142857
+Natillas,Bread Pudding,0.3636363636363637
+Natillas,Mac and Cheese,0.2857142857142857
+Natillas,Corn Bread,0.3333333333333333
+Natillas,Beignets,0.2857142857142857
+Natillas,Chicken Fried Steak,0.2222222222222222
+Natillas,Banana Bread,0.3333333333333333
+Natillas,Onion Rings,0.4
+Natillas,Pancakes,0.4
+Natillas,Cassata,0.14285714285714285
+Natillas,Latkeh,0.25
+Natillas,Sufganiot,0.25
+Natillas,Sahlab,0.42857142857142855
+Natillas,Rugelach,0.2727272727272727
+Natillas,Khachapuri,0.2
+Natillas,Simit,0.4
+Natillas,Kazandibi,0.8
+Natillas,Keşkül,0.2857142857142857
+Natillas,Yayla çorbası,0.25
+Natillas,Waffles,0.6
+Natillas,Belgian Loaf,0.25
+Natillas,Pom Koek,0.25
+Natillas,Lukken,0.4
+Natillas,Gegratineerd Witloof,0.18181818181818185
+Natillas,Oliebollen,0.25
+Natillas,Speculoos,0.3
+Natillas,Tuile,0.4
+Natillas,Ninoofse Vlaai,0.3333333333333333
+Arroz con huevos,Pisto,0.16666666666666666
+Arroz con huevos,Jambalaya,0.14285714285714285
+Arroz con huevos,Bulgur pilavı,0.2
+Pinchitos,Marmitako,0.21428571428571427
+Pinchitos,Gambas al ajillo,0.2
+Pinchitos,Pulpo a la Gallega,0.15384615384615385
+Pinchitos,Karaage,0.125
+Pinchitos,Matambre,0.21428571428571427
+Pinchitos,Surf and Turf,0.125
+Pinchitos,Antipasti,0.13333333333333333
+Pinchitos,Porchetta sandwich,0.13333333333333333
+Pinchitos,Lamb chops,0.14285714285714285
+Pinchitos,Kadinbudu köfte,0.13333333333333333
+Pinchitos,Boulets Liégeoise,0.15789473684210525
+Paella Catalana,Pollo al ajillo,0.2222222222222222
+Paella Catalana,Costillas de cerdo a la riojana,0.2222222222222222
+Paella Catalana,Huevos en Colchón de arvejas,0.18181818181818185
+Paella Catalana,Tahcheen,0.16666666666666666
+Paella Catalana,Joojeh labab,0.2
+Paella Catalana,Dolmeh,0.13333333333333333
+Paella Catalana,Morgh polou,0.15384615384615385
+Paella Catalana,Pomegranate Chicken,0.15384615384615385
+Marmitako,Pisto,0.2307692307692308
+Marmitako,Ensalada Russa,0.18181818181818185
+Marmitako,Gambas al ajillo,0.3636363636363637
+Marmitako,Cocido Madrileño,0.13333333333333333
+Marmitako,Pulpo a la Gallega,0.3333333333333333
+Marmitako,Escalivada,0.18181818181818185
+Marmitako,Cazuela Gaucho,0.15789473684210525
+Marmitako,Empanada árabe,0.21428571428571427
+Marmitako,Huevos en Colchón de arvejas,0.2
+Marmitako,Guiso,0.1875
+Marmitako,Carbonada Criolla,0.1875
+Marmitako,Chupín de pescado,0.18181818181818185
+Marmitako,Tomates Rellenos,0.2222222222222222
+Marmitako,Locro,0.18181818181818185
+Marmitako,Surf and Turf,0.15384615384615385
+Marmitako,Jambalaya,0.2
+Marmitako,Osso Bucco,0.16666666666666666
+Marmitako,Loubia polow,0.14285714285714285
+Marmitako,Tabouleh,0.2
+Marmitako,kisir,0.25
+Marmitako,Turlu,0.21428571428571427
+Marmitako,Moules Frites,0.14285714285714285
+Pisto,Pulpo a la Gallega,0.16666666666666666
+Pisto,Escalivada,0.3636363636363637
+Pisto,Cazuela Gaucho,0.14285714285714285
+Pisto,Argentine Empanada,0.125
+Pisto,Empanada árabe,0.1875
+Pisto,Huevos en Colchón de arvejas,0.2727272727272727
+Pisto,Guiso,0.16666666666666666
+Pisto,Carbonada Criolla,0.16666666666666666
+Pisto,Tomates Rellenos,0.18181818181818185
+Pisto,Asado de Tira,0.2
+Pisto,Locro,0.25
+Pisto,Khoreshte Bademjan,0.1875
+Pisto,Abgousht,0.2
+Pisto,Kookoo sibzamin,0.2727272727272727
+Pisto,Mirza Ghasemi,0.2
+Pisto,Shakshuka,0.18181818181818185
+Pisto,Chicken Shawarma,0.15789473684210525
+Pisto,Turlu,0.26666666666666666
+Pisto,Alinazik Kebab,0.25
+Pisto,İzmir köfte,0.1875
+Pisto,Bulgur pilavı,0.2307692307692308
+Pisto,Booyah,0.1875
+Ajo Blanco,Tsukemono,0.16666666666666666
+Croquetas de jamón,Katsudon,0.18181818181818185
+Croquetas de jamón,Korokke,0.3333333333333333
+Croquetas de jamón,Sorrentino de pollo,0.16666666666666666
+Croquetas de jamón,Bolas de Fraile,0.4
+Croquetas de jamón,Milanesa de peceto,0.2857142857142857
+Croquetas de jamón,Fugazza,0.2857142857142857
+Croquetas de jamón,Mac and Cheese,0.2857142857142857
+Croquetas de jamón,Corn Bread,0.3333333333333333
+Croquetas de jamón,Beignets,0.2857142857142857
+Croquetas de jamón,Fried Chicken Waffles,0.2222222222222222
+Croquetas de jamón,Chicken Fried Steak,0.2222222222222222
+Croquetas de jamón,Onion Rings,0.4
+Croquetas de jamón,Pancakes,0.4
+Croquetas de jamón,Latkeh,0.25
+Croquetas de jamón,Rugelach,0.16666666666666666
+Croquetas de jamón,Khachapuri,0.2
+Croquetas de jamón,Babka,0.3333333333333333
+Croquetas de jamón,Schnitzel,0.25
+Croquetas de jamón,Simit,0.4
+Croquetas de jamón,Kazandibi,0.2857142857142857
+Croquetas de jamón,Keşkül,0.2857142857142857
+Croquetas de jamón,Yayla çorbası,0.25
+Croquetas de jamón,Waffles,0.3333333333333333
+Croquetas de jamón,Gegratineerd Witloof,0.18181818181818185
+Croquetas de jamón,Oliebollen,0.25
+Rosquillas,Okonomiyaki,0.16666666666666666
+Rosquillas,Kasutera,0.3333333333333333
+Rosquillas,Bolas de Fraile,0.3333333333333333
+Rosquillas,Pastafrola,0.2857142857142857
+Rosquillas,Fugazzeta,0.2222222222222222
+Rosquillas,Corn Bread,0.2857142857142857
+Rosquillas,Onion Rings,0.3333333333333333
+Rosquillas,Pancakes,0.3333333333333333
+Rosquillas,Vegetable Fritto Misto,0.16666666666666666
+Rosquillas,Cassata,0.13333333333333333
+Rosquillas,Ciambella,0.25
+Rosquillas,Falafel,0.16666666666666666
+Rosquillas,Latkeh,0.2222222222222222
+Rosquillas,Waffles,0.2857142857142857
+Rosquillas,Vol-Au-Vent,0.2
+Ensalada Russa,Frieten,0.16666666666666666
+Gambas al ajillo,Pulpo a la Gallega,0.18181818181818185
+Gambas al ajillo,Cazuela Gaucho,0.15
+Gambas al ajillo,Empanada árabe,0.2
+Gambas al ajillo,Gumbo,0.14285714285714285
+Gambas al ajillo,Osso Bucco,0.15789473684210525
+Gambas al ajillo,Tortellini in brodo,0.15384615384615385
+Gambas al ajillo,Khoreshte Karafs,0.15384615384615385
+Cocido Madrileño,Escalivada,0.14285714285714285
+Cocido Madrileño,Huevos en Colchón de arvejas,0.15384615384615385
+Cocido Madrileño,Tomates Rellenos,0.16666666666666666
+Cocido Madrileño,Matambre,0.13333333333333333
+Cocido Madrileño,Pot Roast,0.13333333333333333
+Cocido Madrileño,Jambalaya,0.16666666666666666
+Cocido Madrileño,Pizza Margherita,0.13333333333333333
+Cocido Madrileño,Osso Bucco,0.2
+Cocido Madrileño,Bulgur pilavı,0.13333333333333333
+Cocido Madrileño,Menemen,0.15384615384615385
+Cocido Madrileño,Boulets Liégeoise,0.2222222222222222
+Cocido Madrileño,Entrecote Bordelaise,0.16666666666666666
+Cocido Madrileño,Stoofvlees,0.13333333333333333
+Cocido Madrileño,Carbonnade À La Flamande,0.2
+Pollo al ajillo,Buffalo Wings,0.16666666666666666
+Pollo al ajillo,Tahcheen,0.2857142857142857
+Pollo al ajillo,Joojeh labab,0.4
+Pollo al ajillo,Dolmeh,0.2
+Pollo al ajillo,Morgh polou,0.25
+Pollo al ajillo,Chicken Shawarma,0.14285714285714285
+Pollo al ajillo,Pomegranate Chicken,0.25
+Pollo al ajillo,Tulumba,0.25
+Pulpo a la Gallega,Cazuela Gaucho,0.17647058823529413
+Pulpo a la Gallega,Locro,0.2222222222222222
+Pulpo a la Gallega,Frieten,0.2
+Pulpo a la Gallega,Carbonnade À La Flamande,0.18181818181818185
+Escalivada,Empanada árabe,0.14285714285714285
+Escalivada,Huevos en Colchón de arvejas,0.2222222222222222
+Escalivada,Guiso,0.2
+Escalivada,Trucha a la Plancha,0.2857142857142857
+Escalivada,Tomates Rellenos,0.42857142857142855
+Escalivada,Surf and Turf,0.16666666666666666
+Escalivada,Gumbo,0.16666666666666666
+Escalivada,Carpaccio,0.2222222222222222
+Escalivada,Pizza Margherita,0.18181818181818185
+Escalivada,Osso Bucco,0.17647058823529413
+Escalivada,Penne all'arrabbiata,0.14285714285714285
+Escalivada,Pasta alla norma,0.18181818181818185
+Escalivada,Osso Bucco alla milanese,0.17647058823529413
+Escalivada,Khoreshte Bademjan,0.3333333333333333
+Escalivada,Mirza Ghasemi,0.2857142857142857
+Escalivada,Kabab koubideh,0.2222222222222222
+Escalivada,Hummus,0.2222222222222222
+Escalivada,Shakshuka,0.25
+Escalivada,Baba ganoush,0.3333333333333333
+Escalivada,Israeli salad,0.3
+Escalivada,Tabouleh,0.375
+Escalivada,Matzo balls,0.18181818181818185
+Escalivada,Chicken Shawarma,0.1176470588235294
+Escalivada,kisir,0.2727272727272727
+Escalivada,Borek,0.16666666666666666
+Escalivada,Mercimek Kofte,0.18181818181818185
+Escalivada,Alinazik kebab,0.3636363636363637
+Escalivada,Patlicanli pilav,0.2727272727272727
+Escalivada,Turlu,0.3333333333333333
+Escalivada,Alinazik Kebab,0.3076923076923077
+Escalivada,İzmir köfte,0.2307692307692308
+Escalivada,Kadinbudu köfte,0.18181818181818185
+Escalivada,Bulgur pilavı,0.18181818181818185
+Escalivada,Kabak Mücveri,0.2
+Escalivada,Menemen,0.2222222222222222
+Escalivada,Karniyarik,0.25
+Fabada Asturiana,Tamagoyaki,0.2
+Dorayaki,Banana Bread,0.4
+Dorayaki,Tulumba,0.25
+Dorayaki,Boyoz,0.3333333333333333
+Dorayaki,Pide,0.25
+Dorayaki,Pom Koek,0.2857142857142857
+Dorayaki,Speculoos,0.2
+Chankonabe,Yaki Udon,0.2222222222222222
+Chankonabe,Katsudon,0.13636363636363635
+Chankonabe,Kare Udon,0.25
+Chankonabe,Miso Ramen,0.19047619047619047
+Chankonabe,Shoyu Ramen,0.18181818181818185
+Chankonabe,Shitake no Nimono,0.16666666666666666
+Chankonabe,Yakitori,0.1875
+Chankonabe,Tonkotsu Ramen,0.15789473684210525
+Chankonabe,Teppanyaki Chicken,0.14285714285714285
+Chankonabe,Chicken Pot Pie,0.19047619047619047
+Chankonabe,Waterzooi,0.13043478260869565
+Chankonabe,Booyah,0.18181818181818185
+Yaki Udon,Kare Udon,0.5
+Yaki Udon,Omurice,0.2
+Yaki Udon,Yakitori,0.2857142857142857
+Yaki Udon,Karaage,0.16666666666666666
+Yaki Udon,Teppanyaki Chicken,0.16666666666666666
+Yaki Udon,Cazuela Gaucho,0.16666666666666666
+Yaki Udon,Pot Roast,0.18181818181818185
+Yaki Udon,Chicken Pot Pie,0.25
+Yaki Udon,minestrone soup,0.15384615384615385
+Yaki Udon,Khoreshteh Fesenjan,0.18181818181818185
+Yaki Udon,Joojeh labab,0.25
+Yaki Udon,Morgh polou,0.18181818181818185
+Yaki Udon,Kabak Mücveri,0.2
+Yaki Udon,Waterzooi,0.2307692307692308
+Yaki Udon,Stoemp Aux Carottes,0.2
+Yaki Udon,Booyah,0.2307692307692308
+Yaki Udon,Vol-Au-Vent,0.18181818181818185
+Unagi Kaba-yaki,Katsudon,0.16666666666666666
+Unagi Kaba-yaki,Shoyu Ramen,0.15384615384615385
+Unagi Kaba-yaki,Shitake no Nimono,0.42857142857142855
+Unagi Kaba-yaki,Yakitori,0.3333333333333333
+Unagi Kaba-yaki,Gyuudon,0.375
+Unagi Kaba-yaki,Chashu,0.25
+Unagi Kaba-yaki,Tonkotsu Ramen,0.2222222222222222
+Unagi Kaba-yaki,Teppanyaki Chicken,0.18181818181818185
+Takoyaki,Okonomiyaki,0.3076923076923077
+Takoyaki,Vegetable Fritto Misto,0.13333333333333333
+Takoyaki,Fish Balls,0.15384615384615385
+Takoyaki,Vol-Au-Vent,0.15384615384615385
+Takoyaki,Gegratineerd Witloof,0.13333333333333333
+Okinawa Soba,Shitake no Nimono,0.18181818181818185
+Okinawa Soba,Gyuudon,0.16666666666666666
+Okinawa Soba,Chashu,0.18181818181818185
+Okinawa Soba,Tonkotsu Ramen,0.16666666666666666
+Katsudon,Nikuman,0.2777777777777778
+Katsudon,Kare Udon,0.2
+Katsudon,Korokke,0.18181818181818185
+Katsudon,Miso Ramen,0.2857142857142857
+Katsudon,Shoyu Ramen,0.1875
+Katsudon,Shitake no Nimono,0.16666666666666666
+Katsudon,Yakitori,0.2
+Katsudon,Karaage,0.21428571428571427
+Katsudon,Chashu,0.2727272727272727
+Katsudon,Tonkotsu Ramen,0.5
+Katsudon,Teppanyaki Chicken,0.21428571428571427
+Katsudon,Milanesa de peceto,0.2727272727272727
+Katsudon,Salisbury Steak,0.18181818181818185
+Katsudon,Chicken Pot Pie,0.2
+Katsudon,Kabab koubideh,0.16666666666666666
+Katsudon,Cholent,0.21428571428571427
+Katsudon,Schnitzel,0.3636363636363637
+Katsudon,İzmir köfte,0.1875
+Katsudon,Boulets Liégeoise,0.16666666666666666
+Tamagoyaki,Yakitori,0.25
+Tamagoyaki,Eggs Benedict,0.2
+Tsukemono,Ebi Nigiri,0.25
+Tsukemono,Torshi seer,0.16666666666666666
+Okonomiyaki,Nikuman,0.21052631578947367
+Okonomiyaki,Kasutera,0.2
+Okonomiyaki,Tonkotsu Ramen,0.15384615384615385
+Okonomiyaki,Tamales,0.15384615384615385
+Okonomiyaki,Bolas de Fraile,0.2
+Okonomiyaki,Fugazzeta,0.15384615384615385
+Okonomiyaki,Corn Bread,0.18181818181818185
+Okonomiyaki,Onion Rings,0.2
+Okonomiyaki,Pancakes,0.2
+Okonomiyaki,Ciambella,0.16666666666666666
+Okonomiyaki,Latkeh,0.15384615384615385
+Okonomiyaki,Schnitzel,0.15384615384615385
+Okonomiyaki,Waffles,0.18181818181818185
+Nikuman,Miso Ramen,0.21052631578947367
+Nikuman,Shitake no Nimono,0.1875
+Nikuman,Karaage,0.2222222222222222
+Nikuman,Chashu,0.26666666666666666
+Nikuman,Tonkotsu Ramen,0.25
+Nikuman,Bolas de Fraile,0.21428571428571427
+Nikuman,Fugazza,0.1875
+Nikuman,Fugazzeta,0.17647058823529413
+Nikuman,Corn Bread,0.2
+Nikuman,Beignets,0.1875
+Nikuman,Onion Rings,0.21428571428571427
+Nikuman,Pancakes,0.21428571428571427
+Nikuman,Latkeh,0.17647058823529413
+Nikuman,Cholent,0.15789473684210525
+Nikuman,Khachapuri,0.15789473684210525
+Nikuman,Babka,0.15789473684210525
+Nikuman,Schnitzel,0.17647058823529413
+Nikuman,Waffles,0.2
+Nikuman,Belgian Loaf,0.19047619047619047
+Nikuman,Entrecote Bordelaise,0.13636363636363635
+Nikuman,Oliebollen,0.17647058823529413
+Kare Udon,Miso Ramen,0.2
+Kare Udon,Shoyu Ramen,0.1875
+Kare Udon,Omurice,0.15384615384615385
+Kare Udon,Yakitori,0.2
+Kare Udon,Karaage,0.21428571428571427
+Kare Udon,Cazuela Gaucho,0.14285714285714285
+Kare Udon,Chicken Pot Pie,0.2857142857142857
+Kare Udon,Khoreshteh Fesenjan,0.14285714285714285
+Kare Udon,Joojeh labab,0.18181818181818185
+Kare Udon,Waterzooi,0.1875
+Kare Udon,Stoemp Aux Carottes,0.15384615384615385
+Kare Udon,Booyah,0.1875
+Korokke,Tonkotsu Ramen,0.25
+Korokke,Sorrentino de pollo,0.16666666666666666
+Korokke,Cazuela Gaucho,0.1875
+Korokke,Carbonada Criolla,0.14285714285714285
+Korokke,Milanesa de peceto,0.2857142857142857
+Korokke,Chicken Pot Pie,0.18181818181818185
+Korokke,Polpette,0.2222222222222222
+Korokke,Schnitzel,0.25
+Korokke,Boyoz,0.25
+Korokke,Frieten,0.25
+Korokke,Fish Balls,0.2222222222222222
+Korokke,Carbonnade À La Flamande,0.2
+Miso Ramen,Shoyu Ramen,0.26666666666666666
+Miso Ramen,Chashu,0.2727272727272727
+Miso Ramen,Tonkotsu Ramen,0.25
+Miso Ramen,Teppanyaki Chicken,0.21428571428571427
+Shoyu Ramen,Shitake no Nimono,0.25
+Shoyu Ramen,Gyuudon,0.2307692307692308
+Shoyu Ramen,Chashu,0.25
+Shitake no Nimono,Yakitori,0.3333333333333333
+Shitake no Nimono,Gyuudon,0.5714285714285714
+Shitake no Nimono,Chashu,0.25
+Shitake no Nimono,Tonkotsu Ramen,0.2222222222222222
+Shitake no Nimono,Teppanyaki Chicken,0.18181818181818185
+Kasutera,Bolas de Fraile,0.5
+Kasutera,Fugazzeta,0.2857142857142857
+Kasutera,Corn Bread,0.4
+Kasutera,Onion Rings,0.5
+Kasutera,Pancakes,0.5
+Kasutera,Cassata,0.15384615384615385
+Kasutera,Ciambella,0.3333333333333333
+Kasutera,Naan-e barbari,0.3333333333333333
+Kasutera,Falafel,0.2
+Kasutera,Latkeh,0.2857142857142857
+Kasutera,Sfenj,0.4
+Kasutera,Boyoz,0.3333333333333333
+Kasutera,Waffles,0.4
+Kasutera,Pom Koek,0.2857142857142857
+Kasutera,Speculoos,0.2
+Omurice,Fried Chicken Waffles,0.18181818181818185
+Omurice,Tahcheen,0.2
+Omurice,Joojeh labab,0.25
+Omurice,Morgh polou,0.3
+Omurice,Kadinbudu köfte,0.18181818181818185
+Omurice,Yayla çorbası,0.2
+Omurice,Meatloaf,0.125
+Omurice,Vol-Au-Vent,0.18181818181818185
+Yakitori,Karaage,0.2222222222222222
+Yakitori,Gyuudon,0.2857142857142857
+Yakitori,Tonkotsu Ramen,0.2857142857142857
+Yakitori,Teppanyaki Chicken,0.375
+Yakitori,Buffalo Wings,0.16666666666666666
+Karaage,Chashu,0.18181818181818185
+Karaage,Tonkotsu Ramen,0.2727272727272727
+Karaage,Teppanyaki Chicken,0.2307692307692308
+Karaage,Mac and Cheese,0.18181818181818185
+Karaage,Fried Chicken Waffles,0.15384615384615385
+Karaage,Gumbo,0.14285714285714285
+Karaage,Carpaccio,0.18181818181818185
+Karaage,Lasagne alla bolognese,0.14285714285714285
+Karaage,Chicken Saltimbocca,0.25
+Karaage,Tahcheen,0.16666666666666666
+Karaage,Kookoo sabzi,0.18181818181818185
+Karaage,Latkeh,0.16666666666666666
+Karaage,Lamb chops,0.16666666666666666
+Karaage,Kabak Mücveri,0.16666666666666666
+Karaage,Boulets Liégeoise,0.17647058823529413
+Gyuudon,Chashu,0.2222222222222222
+Gyuudon,Tonkotsu Ramen,0.2
+Gyuudon,Teppanyaki Chicken,0.16666666666666666
+Gyuudon,Adas polo,0.2
+Gyuudon,Dolmeh,0.15384615384615385
+Chashu,Tonkotsu Ramen,0.375
+Chashu,Teppanyaki Chicken,0.18181818181818185
+Tonkotsu Ramen,Teppanyaki Chicken,0.2727272727272727
+Tonkotsu Ramen,Polpette,0.18181818181818185
+Tonkotsu Ramen,Cholent,0.16666666666666666
+Tonkotsu Ramen,Schnitzel,0.2
+Tonkotsu Ramen,Fish Balls,0.18181818181818185
+Teppanyaki Chicken,Macaroni Salad,0.14285714285714285
+Ensalada Criolla,Joojeh labab,0.2857142857142857
+Sorrentino de pollo,Milanesa de peceto,0.15384615384615385
+Sorrentino de pollo,Fugazza,0.15384615384615385
+Sorrentino de pollo,Fugazzeta,0.14285714285714285
+Sorrentino de pollo,Stromboli,0.16666666666666666
+Sorrentino de pollo,Fried Chicken Waffles,0.13333333333333333
+Sorrentino de pollo,Baked Ziti,0.15384615384615385
+Sorrentino de pollo,Chicken Parmesean,0.2857142857142857
+Sorrentino de pollo,Pizza Margherita,0.21428571428571427
+Sorrentino de pollo,Chicken Saltimbocca,0.3076923076923077
+Sorrentino de pollo,Heart Meatball sandwich,0.21428571428571427
+Sorrentino de pollo,Pasta alla norma,0.13333333333333333
+Sorrentino de pollo,Schnitzel,0.14285714285714285
+Sorrentino de pollo,Turlu,0.17647058823529413
+Sorrentino de pollo,Vol-Au-Vent,0.13333333333333333
+Tamales,Schnitzel,0.2
+Cazuela Gaucho,Huevos en Colchón de arvejas,0.25
+Cazuela Gaucho,Guiso,0.17391304347826084
+Cazuela Gaucho,Carbonada Criolla,0.17391304347826084
+Cazuela Gaucho,Locro,0.16666666666666666
+Cazuela Gaucho,Pot Roast,0.15789473684210525
+Cazuela Gaucho,Chicken Pot Pie,0.2631578947368421
+Cazuela Gaucho,Osso Bucco,0.2608695652173913
+Cazuela Gaucho,Chicken Saltimbocca,0.15789473684210525
+Cazuela Gaucho,Osso Bucco alla milanese,0.16
+Cazuela Gaucho,Loubia polow,0.14285714285714285
+Cazuela Gaucho,Cholent,0.15
+Cazuela Gaucho,Schnitzel,0.16666666666666666
+Cazuela Gaucho,Waterzooi,0.13636363636363635
+Cazuela Gaucho,Stoemp Aux Carottes,0.16666666666666666
+Cazuela Gaucho,Booyah,0.25
+Cazuela Gaucho,Vol-Au-Vent,0.15789473684210525
+Cazuela Gaucho,Carbonnade À La Flamande,0.21052631578947367
+Argentine Empanada,Adas polo,0.15384615384615385
+Argentine Empanada,Schnitzel,0.15384615384615385
+Bolas de Fraile,Fugazza,0.3333333333333333
+Bolas de Fraile,Fugazzeta,0.2857142857142857
+Bolas de Fraile,Dulce de Leche,0.3333333333333333
+Bolas de Fraile,Bread Pudding,0.16666666666666666
+Bolas de Fraile,Mac and Cheese,0.3333333333333333
+Bolas de Fraile,Corn Bread,0.75
+Bolas de Fraile,Beignets,0.3333333333333333
+Bolas de Fraile,Chicken Fried Steak,0.25
+Bolas de Fraile,Onion Rings,1.0
+Bolas de Fraile,Pancakes,1.0
+Bolas de Fraile,Cassata,0.15384615384615385
+Bolas de Fraile,Ciambella,0.3333333333333333
+Bolas de Fraile,Falafel,0.2
+Bolas de Fraile,Latkeh,0.5
+Bolas de Fraile,Rugelach,0.18181818181818185
+Bolas de Fraile,Khachapuri,0.2222222222222222
+Bolas de Fraile,Babka,0.2222222222222222
+Bolas de Fraile,Simit,0.5
+Bolas de Fraile,Kazandibi,0.3333333333333333
+Bolas de Fraile,Keşkül,0.3333333333333333
+Bolas de Fraile,Boyoz,0.3333333333333333
+Bolas de Fraile,Yayla çorbası,0.2857142857142857
+Bolas de Fraile,Waffles,0.75
+Bolas de Fraile,Croquettes Aux Crevettes Grises,0.15384615384615385
+Bolas de Fraile,Belgian Loaf,0.2727272727272727
+Bolas de Fraile,Gegratineerd Witloof,0.2
+Bolas de Fraile,Oliebollen,0.2857142857142857
+Bolas de Fraile,Speculoos,0.2
+Costillas de cerdo a la riojana,Empanada árabe,0.18181818181818185
+Costillas de cerdo a la riojana,Chupín de pescado,0.2857142857142857
+Costillas de cerdo a la riojana,Mirza Ghasemi,0.2
+Empanada árabe,Huevos en Colchón de arvejas,0.15384615384615385
+Empanada árabe,Chupín de pescado,0.14285714285714285
+Empanada árabe,Tomates Rellenos,0.16666666666666666
+Empanada árabe,Baba ganoush,0.14285714285714285
+Empanada árabe,Tabouleh,0.15384615384615385
+Empanada árabe,İzmir köfte,0.17647058823529413
+Berenjenas en Escabeche,Matambre,0.18181818181818185
+Berenjenas en Escabeche,Pernil,0.25
+Berenjenas en Escabeche,minestrone soup,0.15384615384615385
+Berenjenas en Escabeche,Porchetta sandwich,0.18181818181818185
+Berenjenas en Escabeche,Mirza Ghasemi,0.2857142857142857
+Berenjenas en Escabeche,Mahi polow,0.16666666666666666
+Berenjenas en Escabeche,Koufteh ghelgheli,0.18181818181818185
+Berenjenas en Escabeche,Ash-e jo,0.25
+Berenjenas en Escabeche,Gheyme Nesar,0.1875
+Berenjenas en Escabeche,Patlicanli pilav,0.16666666666666666
+Berenjenas en Escabeche,Konijn Met Bier,0.14285714285714285
+Pacú Asado,Dorada a la Plancha,0.25
+Pacú Asado,Trucha a la Plancha,0.2
+Pacú Asado,Surf and Turf,0.2222222222222222
+Pacú Asado,Bistecca Alla Fiorentina,0.2
+Pacú Asado,Tortellini in brodo,0.25
+Pacú Asado,Lox,0.16666666666666666
+Pacú Asado,Stuffed vine leaves,0.16666666666666666
+Torta Negra Galesa,Beignets,0.1875
+Torta Negra Galesa,Cassata,0.13043478260869565
+Torta Negra Galesa,Nan-e taftoon,0.13333333333333333
+Torta Negra Galesa,Jerusalem bagels,0.13333333333333333
+Torta Negra Galesa,Rugelach,0.14285714285714285
+Torta Negra Galesa,Challa bread,0.13333333333333333
+Torta Negra Galesa,Sfenj,0.2
+Torta Negra Galesa,Babka,0.15789473684210525
+Torta Negra Galesa,Baklava,0.14285714285714285
+Torta Negra Galesa,Pide,0.14285714285714285
+Torta Negra Galesa,Belgian Loaf,0.13636363636363635
+Torta Negra Galesa,Speculoos,0.15
+Huevos en Colchón de arvejas,Chupín de pescado,0.2222222222222222
+Huevos en Colchón de arvejas,Tomates Rellenos,0.2857142857142857
+Huevos en Colchón de arvejas,Locro,0.2222222222222222
+Huevos en Colchón de arvejas,Pizza Margherita,0.2
+Huevos en Colchón de arvejas,Osso Bucco,0.1875
+Huevos en Colchón de arvejas,Penne all'arrabbiata,0.15384615384615385
+Huevos en Colchón de arvejas,Osso Bucco alla milanese,0.1875
+Huevos en Colchón de arvejas,Khoreshte Bademjan,0.15384615384615385
+Huevos en Colchón de arvejas,Abgousht,0.16666666666666666
+Huevos en Colchón de arvejas,Cholent,0.18181818181818185
+Huevos en Colchón de arvejas,Schnitzel,0.2222222222222222
+Huevos en Colchón de arvejas,Bulgur pilavı,0.2
+Huevos en Colchón de arvejas,Menemen,0.25
+Guiso,Carbonada Criolla,0.2631578947368421
+Guiso,Tomates Rellenos,0.2307692307692308
+Guiso,Chicken Pot Pie,0.16666666666666666
+Guiso,Lasagne alla bolognese,0.16666666666666666
+Guiso,Osso Bucco,0.2380952380952381
+Guiso,Osso Bucco alla milanese,0.3
+Guiso,Abgousht,0.2352941176470588
+Guiso,Loubia polow,0.2352941176470588
+Guiso,Gheyme Nesar,0.25
+Guiso,Patlicanli pilav,0.17647058823529413
+Guiso,Turlu,0.2222222222222222
+Guiso,İzmir köfte,0.15789473684210525
+Guiso,Kadinbudu köfte,0.1875
+Guiso,Stoemp Aux Carottes,0.2
+Guiso,Booyah,0.29411764705882354
+Milhojas de Dulce de Leche,Dulce de Leche,0.3333333333333333
+Milhojas de Dulce de Leche,Grits,0.25
+Milhojas de Dulce de Leche,Beignets,0.3333333333333333
+Carbonada Criolla,Chop Suey,0.15789473684210525
+Carbonada Criolla,Alinazik kebab,0.16666666666666666
+Carbonada Criolla,İzmir köfte,0.15789473684210525
+Carbonada Criolla,Booyah,0.2222222222222222
+Carbonada Criolla,Carbonnade À La Flamande,0.17647058823529413
+Milanesa de peceto,Fugazza,0.25
+Milanesa de peceto,Fugazzeta,0.375
+Milanesa de peceto,Salisbury Steak,0.2857142857142857
+Milanesa de peceto,Chicken Parmesean,0.18181818181818185
+Milanesa de peceto,Antipasti,0.2
+Milanesa de peceto,Heart Meatball sandwich,0.2
+Milanesa de peceto,Ragu alla bolognese,0.2
+Milanesa de peceto,Kabab koubideh,0.42857142857142855
+Milanesa de peceto,Cholent,0.18181818181818185
+Milanesa de peceto,Schnitzel,0.375
+Milanesa de peceto,Kiymali pide,0.15384615384615385
+Milanesa de peceto,İzmir köfte,0.5
+Milanesa de peceto,Kadinbudu köfte,0.2
+Milanesa de peceto,Bulgur pilavı,0.2
+Milanesa de peceto,Kabak Mücveri,0.2222222222222222
+Milanesa de peceto,Boulets Liégeoise,0.21428571428571427
+Milanesa de peceto,Meatloaf,0.13333333333333333
+Milanesa de peceto,Stoofvlees,0.2
+Milanesa de peceto,Vol-Au-Vent,0.2
+Milanesa de peceto,Carbonnade À La Flamande,0.3
+Chupín de pescado,Locro,0.2
+Chupín de pescado,Osso Bucco,0.17647058823529413
+Chupín de pescado,Osso Bucco alla milanese,0.17647058823529413
+Chupín de pescado,Abgousht,0.25
+Chupín de pescado,Loubia polow,0.15384615384615385
+Chupín de pescado,Moules Frites,0.15384615384615385
+Chupín de pescado,Fish Balls,0.18181818181818185
+Chupín de pescado,Vol-Au-Vent,0.18181818181818185
+Dorada a la Plancha,Bistecca Alla Fiorentina,0.25
+Trucha a la Plancha,Tomates Rellenos,0.4
+Trucha a la Plancha,Chicken Parmesean,0.2222222222222222
+Trucha a la Plancha,Mahi polow,0.2222222222222222
+Trucha a la Plancha,Israeli salad,0.25
+Trucha a la Plancha,Lox,0.16666666666666666
+Trucha a la Plancha,Matzo balls,0.25
+Trucha a la Plancha,Borek,0.2222222222222222
+Trucha a la Plancha,Turlu,0.18181818181818185
+Trucha a la Plancha,İzmir köfte,0.18181818181818185
+Trucha a la Plancha,Kadinbudu köfte,0.25
+Trucha a la Plancha,Kabak Mücveri,0.2857142857142857
+Trucha a la Plancha,Boulets Liégeoise,0.15384615384615385
+Fainá,Pernil,0.2
+Fainá,Bistecca Alla Fiorentina,0.25
+Fainá,Mirza Ghasemi,0.25
+Fainá,Barg kabab,0.2
+Fainá,Shakshuka,0.2
+Tomates Rellenos,Chicken Parmesean,0.2
+Tomates Rellenos,Pizza Margherita,0.2222222222222222
+Tomates Rellenos,Osso Bucco,0.2
+Tomates Rellenos,Penne all'arrabbiata,0.16666666666666666
+Tomates Rellenos,Osso Bucco alla milanese,0.2
+Tomates Rellenos,Khoreshte Bademjan,0.16666666666666666
+Tomates Rellenos,Abgousht,0.18181818181818185
+Tomates Rellenos,Israeli salad,0.2222222222222222
+Tomates Rellenos,Tabouleh,0.2857142857142857
+Tomates Rellenos,Matzo balls,0.2222222222222222
+Tomates Rellenos,kisir,0.2
+Tomates Rellenos,Borek,0.2
+Tomates Rellenos,Turlu,0.2727272727272727
+Tomates Rellenos,İzmir köfte,0.2727272727272727
+Tomates Rellenos,Kadinbudu köfte,0.2222222222222222
+Tomates Rellenos,Bulgur pilavı,0.2222222222222222
+Tomates Rellenos,Kabak Mücveri,0.25
+Tomates Rellenos,Menemen,0.2857142857142857
+Tomates Rellenos,Karniyarik,0.18181818181818185
+Tomates Rellenos,Boulets Liégeoise,0.14285714285714285
+Asado de Tira,Locro,0.2857142857142857
+Asado de Tira,Chicken Pot Pie,0.2
+Asado de Tira,Abgousht,0.2
+Asado de Tira,Kookoo sibzamin,0.3333333333333333
+Asado de Tira,Kugel,0.2
+Asado de Tira,Turlu,0.18181818181818185
+Asado de Tira,Stoemp Aux Carottes,0.2857142857142857
+Asado de Tira,Frieten,0.3333333333333333
+Asado de Tira,Booyah,0.18181818181818185
+Asado de Tira,Salade Liégeoise,0.2
+Asado de Tira,Carbonnade À La Flamande,0.2222222222222222
+Chocotorta,Dulce de Leche,0.25
+Chocotorta,Tiramisu,0.2727272727272727
+Chocotorta,Mousse Au Chocolat,0.3333333333333333
+Matambre,Chop Suey,0.21428571428571427
+Matambre,Chicken Fried Steak,0.16666666666666666
+Matambre,Pernil,0.2222222222222222
+Matambre,Philly Cheesesteak,0.2727272727272727
+Matambre,minestrone soup,0.14285714285714285
+Matambre,Bistecca Alla Fiorentina,0.25
+Matambre,Antipasti,0.16666666666666666
+Matambre,Porchetta sandwich,0.16666666666666666
+Matambre,Bulgur pilavı,0.16666666666666666
+Matambre Relleno,Kabab koubideh,0.2
+Matambre Relleno,Barg kabab,0.25
+Pastafrola,Vegetable Fritto Misto,0.18181818181818185
+Pastafrola,Boyoz,0.25
+Pastafrola,Vol-Au-Vent,0.2222222222222222
+Pastafrola,Gegratineerd Witloof,0.18181818181818185
+Fugazza,Fugazzeta,0.375
+Fugazza,Stromboli,0.14285714285714285
+Fugazza,Mac and Cheese,0.25
+Fugazza,Corn Bread,0.2857142857142857
+Fugazza,Beignets,0.42857142857142855
+Fugazza,Chicken Fried Steak,0.2
+Fugazza,Onion Rings,0.3333333333333333
+Fugazza,Pancakes,0.3333333333333333
+Fugazza,Chicken Saltimbocca,0.2
+Fugazza,Ragu alla bolognese,0.125
+Fugazza,Naan-e barbari,0.25
+Fugazza,Nan-e taftoon,0.3333333333333333
+Fugazza,Jerusalem bagels,0.3333333333333333
+Fugazza,Latkeh,0.2222222222222222
+Fugazza,Sufganiot,0.2222222222222222
+Fugazza,Challa bread,0.3333333333333333
+Fugazza,Sfenj,0.2857142857142857
+Fugazza,Khachapuri,0.3
+Fugazza,Babka,0.3
+Fugazza,Simit,0.3333333333333333
+Fugazza,Kunefe,0.16666666666666666
+Fugazza,Keşkül,0.25
+Fugazza,Pide,0.4
+Fugazza,Kiymali pide,0.15384615384615385
+Fugazza,Yayla çorbası,0.2222222222222222
+Fugazza,Waffles,0.2857142857142857
+Fugazza,Meatloaf,0.13333333333333333
+Fugazza,Oliebollen,0.375
+Fugazzeta,Stromboli,0.13333333333333333
+Fugazzeta,Corn Bread,0.25
+Fugazzeta,Onion Rings,0.2857142857142857
+Fugazzeta,Pancakes,0.2857142857142857
+Fugazzeta,Pizza Margherita,0.18181818181818185
+Fugazzeta,Antipasti,0.18181818181818185
+Fugazzeta,Chicken Saltimbocca,0.18181818181818185
+Fugazzeta,Ragu alla bolognese,0.1176470588235294
+Fugazzeta,Ciambella,0.2222222222222222
+Fugazzeta,Kookoo sibzamin,0.2222222222222222
+Fugazzeta,Latkeh,0.2
+Fugazzeta,Cholent,0.16666666666666666
+Fugazzeta,Matzo balls,0.18181818181818185
+Fugazzeta,Schnitzel,0.2
+Fugazzeta,Borek,0.16666666666666666
+Fugazzeta,İzmir köfte,0.2307692307692308
+Fugazzeta,Kadinbudu köfte,0.18181818181818185
+Fugazzeta,Bulgur pilavı,0.18181818181818185
+Fugazzeta,Kabak Mücveri,0.2
+Fugazzeta,Waffles,0.25
+Fugazzeta,Meatloaf,0.125
+Fugazzeta,Vol-Au-Vent,0.18181818181818185
+Locro,Kookoo sibzamin,0.2222222222222222
+Locro,Cholent,0.16666666666666666
+Locro,Schnitzel,0.2
+Locro,Stoemp Aux Carottes,0.2
+Locro,Fish Balls,0.18181818181818185
+Locro,Vol-Au-Vent,0.18181818181818185
+Dulce de Leche,Grits,0.5
+Dulce de Leche,Onion Rings,0.3333333333333333
+Dulce de Leche,Pancakes,0.3333333333333333
+Dulce de Leche,Faloodeh,0.2
+Dulce de Leche,Simit,0.3333333333333333
+Dulce de Leche,Irmik helvasi,0.25
+Dulce de Leche,Kuymak,0.3333333333333333
+Stromboli,Baked Ziti,0.14285714285714285
+Stromboli,Eggs Benedict,0.15384615384615385
+Stromboli,Chicken Parmesean,0.1875
+Stromboli,Pizza Margherita,0.2
+Stromboli,Borek,0.1176470588235294
+Stromboli,İzmir köfte,0.16666666666666666
+Grits,Kuymak,0.25
+Salisbury Steak,Chicken Parmesean,0.2
+Salisbury Steak,Kabab koubideh,0.2857142857142857
+Salisbury Steak,Schnitzel,0.25
+Bread Pudding,Onion Rings,0.16666666666666666
+Bread Pudding,Pancakes,0.16666666666666666
+Bread Pudding,Vegetable Fritto Misto,0.17647058823529413
+Bread Pudding,Sahlab,0.3076923076923077
+Bread Pudding,Rugelach,0.3125
+Bread Pudding,Babka,0.26666666666666666
+Bread Pudding,Simit,0.16666666666666666
+Bread Pudding,Tulumba,0.18181818181818185
+Bread Pudding,Baklava,0.16666666666666666
+Bread Pudding,Kazandibi,0.3333333333333333
+Bread Pudding,Waffles,0.25
+Bread Pudding,Croquettes Aux Crevettes Grises,0.21052631578947367
+Bread Pudding,Belgian Loaf,0.2222222222222222
+Bread Pudding,Lukken,0.16666666666666666
+Bread Pudding,Gegratineerd Witloof,0.17647058823529413
+Bread Pudding,Speculoos,0.17647058823529413
+Bread Pudding,Tuile,0.16666666666666666
+Bread Pudding,Ninoofse Vlaai,0.1875
+Macaroni Salad,Pot Roast,0.15384615384615385
+Macaroni Salad,Antipasti,0.3636363636363637
+Macaroni Salad,Lamb chops,0.16666666666666666
+Macaroni Salad,Menemen,0.18181818181818185
+Macaroni Salad,Stoofvlees,0.15384615384615385
+Macaroni Salad,Belgian Endive,0.16666666666666666
+Mac and Cheese,Corn Bread,0.2857142857142857
+Mac and Cheese,Beignets,0.25
+Mac and Cheese,Fried Chicken Waffles,0.2
+Mac and Cheese,Chicken Fried Steak,0.3333333333333333
+Mac and Cheese,Onion Rings,0.3333333333333333
+Mac and Cheese,Pancakes,0.3333333333333333
+Mac and Cheese,Lasagne alla bolognese,0.16666666666666666
+Mac and Cheese,Vegetable Fritto Misto,0.16666666666666666
+Mac and Cheese,Chicken Saltimbocca,0.2
+Mac and Cheese,Polpette,0.2
+Mac and Cheese,Latkeh,0.375
+Mac and Cheese,Simit,0.3333333333333333
+Mac and Cheese,Kazandibi,0.25
+Mac and Cheese,Keşkül,0.25
+Mac and Cheese,Kuymak,0.3333333333333333
+Mac and Cheese,Kiymali pide,0.15384615384615385
+Mac and Cheese,Yayla çorbası,0.2222222222222222
+Mac and Cheese,Waffles,0.2857142857142857
+Mac and Cheese,Oliebollen,0.2222222222222222
+Chop Suey,Pernil,0.16666666666666666
+Chop Suey,minestrone soup,0.1875
+Chop Suey,Ragu alla bolognese,0.15
+Chop Suey,Mirza Ghasemi,0.18181818181818185
+Chop Suey,Barg kabab,0.16666666666666666
+Chop Suey,Gheyme Nesar,0.15
+Chop Suey,Shakshuka,0.16666666666666666
+Chop Suey,Alinazik kebab,0.1875
+Chop Suey,Kiymali pide,0.17647058823529413
+Chop Suey,Alinazik Kebab,0.2352941176470588
+Chop Suey,İzmir köfte,0.17647058823529413
+Chop Suey,Biber Dolmasi,0.2
+Chop Suey,Bulgur pilavı,0.21428571428571427
+Chop Suey,Karniyarik,0.35714285714285715
+Chop Suey,Midye Dolma,0.15789473684210525
+Corn Bread,Beignets,0.2857142857142857
+Corn Bread,Chicken Fried Steak,0.2222222222222222
+Corn Bread,Onion Rings,0.75
+Corn Bread,Pancakes,0.75
+Corn Bread,Cassata,0.14285714285714285
+Corn Bread,Ciambella,0.2857142857142857
+Corn Bread,Falafel,0.18181818181818185
+Corn Bread,Latkeh,0.42857142857142855
+Corn Bread,Rugelach,0.16666666666666666
+Corn Bread,Khachapuri,0.2
+Corn Bread,Simit,0.4
+Corn Bread,Kazandibi,0.2857142857142857
+Corn Bread,Keşkül,0.2857142857142857
+Corn Bread,Yayla çorbası,0.25
+Corn Bread,Waffles,0.6
+Corn Bread,Belgian Loaf,0.25
+Corn Bread,Gegratineerd Witloof,0.18181818181818185
+Corn Bread,Oliebollen,0.25
+Corn Bread,Speculoos,0.18181818181818185
+Beignets,Chicken Fried Steak,0.2
+Beignets,Key Lime Bars,0.25
+Beignets,Onion Rings,0.3333333333333333
+Beignets,Pancakes,0.3333333333333333
+Beignets,Ciambella,0.25
+Beignets,Naan-e barbari,0.25
+Beignets,Nan-e taftoon,0.3333333333333333
+Beignets,Jerusalem bagels,0.3333333333333333
+Beignets,Latkeh,0.2222222222222222
+Beignets,Sufganiot,0.375
+Beignets,Challa bread,0.3333333333333333
+Beignets,Sfenj,0.5
+Beignets,Khachapuri,0.3
+Beignets,Babka,0.3
+Beignets,Schnitzel,0.2222222222222222
+Beignets,Simit,0.3333333333333333
+Beignets,Keşkül,0.25
+Beignets,Pide,0.4
+Beignets,Kiymali pide,0.15384615384615385
+Beignets,Yayla çorbası,0.2222222222222222
+Beignets,Waffles,0.2857142857142857
+Beignets,Oliebollen,0.375
+Fried Chicken Waffles,Chicken Fried Steak,0.2727272727272727
+Fried Chicken Waffles,Clam Chowder,0.16666666666666666
+Fried Chicken Waffles,Chicken Parmesean,0.15384615384615385
+Fried Chicken Waffles,Chicken Saltimbocca,0.16666666666666666
+Fried Chicken Waffles,Heart Meatball sandwich,0.16666666666666666
+Fried Chicken Waffles,Tahcheen,0.18181818181818185
+Fried Chicken Waffles,Latkeh,0.18181818181818185
+Fried Chicken Waffles,Chicken Shawarma,0.1111111111111111
+Fried Chicken Waffles,Khachapuri,0.15384615384615385
+Fried Chicken Waffles,Babka,0.15384615384615385
+Fried Chicken Waffles,Schnitzel,0.18181818181818185
+Baked Ziti,Chicken Parmesean,0.3
+Baked Ziti,Pizza Margherita,0.2
+Baked Ziti,Kunefe,0.16666666666666666
+Surf and Turf,Carpaccio,0.18181818181818185
+Surf and Turf,Tortellini in brodo,0.15384615384615385
+Surf and Turf,Baba ganoush,0.16666666666666666
+Surf and Turf,Israeli salad,0.15384615384615385
+Surf and Turf,Tabouleh,0.18181818181818185
+Surf and Turf,Mercimek Kofte,0.15384615384615385
+Club Sandwich,Lobster Roll,0.18181818181818185
+Club Sandwich,Konijn Met Bier,0.1176470588235294
+Chicken Fried Steak,Clam Chowder,0.16666666666666666
+Chicken Fried Steak,Philly Cheesesteak,0.16666666666666666
+Chicken Fried Steak,Onion Rings,0.25
+Chicken Fried Steak,Pancakes,0.25
+Chicken Fried Steak,Lasagne alla bolognese,0.15
+Chicken Fried Steak,Bistecca Alla Fiorentina,0.25
+Chicken Fried Steak,Chicken Saltimbocca,0.16666666666666666
+Chicken Fried Steak,Heart Meatball sandwich,0.16666666666666666
+Chicken Fried Steak,Latkeh,0.4444444444444444
+Chicken Fried Steak,Matzo balls,0.16666666666666666
+Chicken Fried Steak,Simit,0.25
+Chicken Fried Steak,Kazandibi,0.2
+Chicken Fried Steak,Keşkül,0.2
+Chicken Fried Steak,Waffles,0.2222222222222222
+Banana Bread,Sufganiot,0.25
+Banana Bread,Kazandibi,0.2857142857142857
+Banana Bread,Boyoz,0.25
+Banana Bread,Waffles,0.3333333333333333
+Banana Bread,Pom Koek,0.25
+Banana Bread,Lukken,0.4
+Banana Bread,Speculoos,0.3
+Banana Bread,Tuile,0.4
+Clam Chowder,Polpette,0.16666666666666666
+Clam Chowder,Stoemp Aux Carottes,0.18181818181818185
+Clam Chowder,Salade Liégeoise,0.25
+Pernil,minestrone soup,0.18181818181818185
+Pernil,Porchetta sandwich,0.2222222222222222
+Key Lime Bars,Ciambella,0.25
+Key Lime Bars,Sfenj,0.2857142857142857
+Key Lime Bars,Boyoz,0.2
+Philly Cheesesteak,Bistecca Alla Fiorentina,0.25
+Pot Roast,Chicken Pot Pie,0.2307692307692308
+Pot Roast,minestrone soup,0.14285714285714285
+Pot Roast,Lasagne alla bolognese,0.15
+Pot Roast,Osso Bucco,0.3125
+Pot Roast,Antipasti,0.16666666666666666
+Pot Roast,Ragu alla bolognese,0.17647058823529413
+Pot Roast,Osso Bucco alla milanese,0.16666666666666666
+Pot Roast,Konijn Met Bier,0.13333333333333333
+Pot Roast,Waterzooi,0.21428571428571427
+Pot Roast,Stoemp Aux Carottes,0.18181818181818185
+Pot Roast,Entrecote Bordelaise,0.125
+Pot Roast,Booyah,0.21428571428571427
+Chicken Pot Pie,Gumbo,0.21428571428571427
+Chicken Pot Pie,Tuscan Ribollita,0.17647058823529413
+Chicken Pot Pie,Osso Bucco,0.21052631578947367
+Chicken Pot Pie,Ragu alla bolognese,0.15789473684210525
+Chicken Pot Pie,Osso Bucco alla milanese,0.21052631578947367
+Chicken Pot Pie,Khoreshteh Fesenjan,0.14285714285714285
+Chicken Pot Pie,Joojeh labab,0.18181818181818185
+Chicken Pot Pie,Waterzooi,0.26666666666666666
+Chicken Pot Pie,Stoemp Aux Carottes,0.25
+Chicken Pot Pie,Booyah,0.35714285714285715
+Chicken Pot Pie,Vol-Au-Vent,0.2307692307692308
+Chicken Pot Pie,Carbonnade À La Flamande,0.21428571428571427
+Onion Rings,Pancakes,1.0
+Onion Rings,Cassata,0.15384615384615385
+Onion Rings,Ciambella,0.3333333333333333
+Onion Rings,Falafel,0.2
+Onion Rings,Latkeh,0.5
+Onion Rings,Rugelach,0.18181818181818185
+Onion Rings,Khachapuri,0.2222222222222222
+Onion Rings,Babka,0.2222222222222222
+Onion Rings,Simit,0.5
+Onion Rings,Kazandibi,0.3333333333333333
+Onion Rings,Keşkül,0.3333333333333333
+Onion Rings,Boyoz,0.3333333333333333
+Onion Rings,Yayla çorbası,0.2857142857142857
+Onion Rings,Waffles,0.75
+Onion Rings,Croquettes Aux Crevettes Grises,0.15384615384615385
+Onion Rings,Belgian Loaf,0.2727272727272727
+Onion Rings,Gegratineerd Witloof,0.2
+Onion Rings,Oliebollen,0.2857142857142857
+Onion Rings,Speculoos,0.2
+Chicken Parmesean,Pizza Margherita,0.25
+Chicken Parmesean,Pasta Carbonara,0.3333333333333333
+Chicken Parmesean,Chicken Saltimbocca,0.15384615384615385
+Chicken Parmesean,Shrimp Scampi with Pasta,0.21428571428571427
+Chicken Parmesean,Kabab koubideh,0.18181818181818185
+Chicken Parmesean,Joojeh labab,0.2
+Chicken Parmesean,Matzo balls,0.15384615384615385
+Chicken Parmesean,Borek,0.2307692307692308
+Chicken Parmesean,Turlu,0.2857142857142857
+Chicken Parmesean,İzmir köfte,0.2
+Jambalaya,Gumbo,0.26666666666666666
+Jambalaya,Tuscan Ribollita,0.15789473684210525
+Jambalaya,Osso Bucco,0.19047619047619047
+Jambalaya,Osso Bucco alla milanese,0.13636363636363635
+Pancakes,Cassata,0.15384615384615385
+Pancakes,Ciambella,0.3333333333333333
+Pancakes,Falafel,0.2
+Pancakes,Latkeh,0.5
+Pancakes,Rugelach,0.18181818181818185
+Pancakes,Khachapuri,0.2222222222222222
+Pancakes,Babka,0.2222222222222222
+Pancakes,Simit,0.5
+Pancakes,Kazandibi,0.3333333333333333
+Pancakes,Keşkül,0.3333333333333333
+Pancakes,Boyoz,0.3333333333333333
+Pancakes,Yayla çorbası,0.2857142857142857
+Pancakes,Waffles,0.75
+Pancakes,Croquettes Aux Crevettes Grises,0.15384615384615385
+Pancakes,Belgian Loaf,0.2727272727272727
+Pancakes,Gegratineerd Witloof,0.2
+Pancakes,Oliebollen,0.2857142857142857
+Pancakes,Speculoos,0.2
+Gumbo,Lasagne alla bolognese,0.14285714285714285
+Gumbo,Osso Bucco,0.15789473684210525
+Gumbo,Osso Bucco alla milanese,0.15789473684210525
+Gumbo,Khoreshte Karafs,0.15384615384615385
+Gumbo,Alinazik Kebab,0.1875
+Gumbo,Kadinbudu köfte,0.15384615384615385
+Gumbo,Kabak Mücveri,0.16666666666666666
+minestrone soup,Tuscan Ribollita,0.17647058823529413
+minestrone soup,Osso Bucco,0.15
+minestrone soup,Antipasti,0.2307692307692308
+minestrone soup,Ragu alla bolognese,0.15789473684210525
+minestrone soup,Khoreshte Karafs,0.14285714285714285
+minestrone soup,Koufteh ghelgheli,0.14285714285714285
+Carpaccio,Tagliatelle with salami,0.2
+Carpaccio,Vegetable Fritto Misto,0.16666666666666666
+Carpaccio,Shrimp Scampi with Pasta,0.2727272727272727
+Carpaccio,Polpette,0.2
+Carpaccio,Ghormeh Sabzi,0.15384615384615385
+Carpaccio,Khoreshte Karafs,0.2
+Carpaccio,Ashe reshteh,0.13333333333333333
+Carpaccio,Mahi polow,0.18181818181818185
+Carpaccio,Kookoo sabzi,0.25
+Carpaccio,Koufteh ghelgheli,0.2
+Carpaccio,Ash-e jo,0.16666666666666666
+Carpaccio,Falafel,0.16666666666666666
+Carpaccio,Baba ganoush,0.2222222222222222
+Carpaccio,Israeli salad,0.2
+Carpaccio,Tabouleh,0.25
+Carpaccio,Lox,0.2857142857142857
+Carpaccio,Israeli breakfast,0.2
+Carpaccio,kisir,0.3
+Carpaccio,Mercimek Kofte,0.2
+Carpaccio,Alinazik kebab,0.2727272727272727
+Lasagne alla bolognese,Pizza Margherita,0.15
+Lasagne alla bolognese,Tuscan Ribollita,0.2272727272727273
+Lasagne alla bolognese,Osso Bucco,0.25
+Lasagne alla bolognese,Shrimp Scampi with Pasta,0.19047619047619047
+Lasagne alla bolognese,Ragu alla bolognese,0.2608695652173913
+Lasagne alla bolognese,Osso Bucco alla milanese,0.25
+Lasagne alla bolognese,Khoreshte Karafs,0.15
+Lasagne alla bolognese,Barg kabab,0.17647058823529413
+Lasagne alla bolognese,Latkeh,0.15789473684210525
+Lasagne alla bolognese,kisir,0.14285714285714285
+Lasagne alla bolognese,Islim Kebabi,0.16666666666666666
+Lasagne alla bolognese,Alinazik kebab,0.19047619047619047
+Lasagne alla bolognese,Patlicanli pilav,0.14285714285714285
+Lasagne alla bolognese,Kiymali pide,0.18181818181818185
+Lasagne alla bolognese,İzmir köfte,0.18181818181818185
+Lasagne alla bolognese,Biber Dolmasi,0.14285714285714285
+Lasagne alla bolognese,Karniyarik,0.19047619047619047
+Lasagne alla bolognese,Midye Dolma,0.16666666666666666
+Lasagne alla bolognese,Boulets Liégeoise,0.16666666666666666
+Lasagne alla bolognese,Booyah,0.18181818181818185
+Panna cotta,Cassata,0.2307692307692308
+Pizza Margherita,Pasta Carbonara,0.2222222222222222
+Pizza Margherita,Tuscan Ribollita,0.2
+Pizza Margherita,Osso Bucco,0.16666666666666666
+Pizza Margherita,Penne all'arrabbiata,0.3076923076923077
+Pizza Margherita,Pasta alla norma,0.2727272727272727
+Pizza Margherita,Borek,0.15384615384615385
+Pizza Margherita,Turlu,0.21428571428571427
+Pizza Margherita,Bulgur pilavı,0.16666666666666666
+Pizza Margherita,Menemen,0.2
+Pasta Carbonara,Shrimp Scampi with Pasta,0.18181818181818185
+Pasta Carbonara,Penne all'arrabbiata,0.16666666666666666
+Tagliatelle with salami,Baba ganoush,0.18181818181818185
+Tagliatelle with salami,Moules Frites,0.14285714285714285
+Bistecca Alla Fiorentina,Vegetable Fritto Misto,0.2
+Bistecca Alla Fiorentina,Mirza Ghasemi,0.2
+Bistecca Alla Fiorentina,Stuffed vine leaves,0.16666666666666666
+Tuscan Ribollita,Polenta Lasagna,0.1176470588235294
+Tuscan Ribollita,Osso Bucco,0.13636363636363635
+Tuscan Ribollita,Penne all'arrabbiata,0.16666666666666666
+Tuscan Ribollita,Osso Bucco alla milanese,0.13636363636363635
+Tuscan Ribollita,Booyah,0.16666666666666666
+Osso Bucco,Ragu alla bolognese,0.125
+Osso Bucco,Tortellini in brodo,0.16666666666666666
+Osso Bucco,Osso Bucco alla milanese,0.4736842105263158
+Osso Bucco,Babka,0.15789473684210525
+Osso Bucco,Patlicanli pilav,0.15789473684210525
+Osso Bucco,İzmir köfte,0.2
+Osso Bucco,Kadinbudu köfte,0.16666666666666666
+Osso Bucco,Kabak Mücveri,0.17647058823529413
+Osso Bucco,Boulets Liégeoise,0.2380952380952381
+Osso Bucco,Moules Frites,0.15
+Osso Bucco,Konijn Met Bier,0.14285714285714285
+Osso Bucco,Waterzooi,0.2
+Osso Bucco,Croquettes Aux Crevettes Grises,0.18181818181818185
+Osso Bucco,Booyah,0.2
+Osso Bucco,Vol-Au-Vent,0.16666666666666666
+Osso Bucco,Carbonnade À La Flamande,0.2222222222222222
+Tiramisu,Cassata,0.15789473684210525
+Tiramisu,Rugelach,0.17647058823529413
+Tiramisu,Mousse Au Chocolat,0.16666666666666666
+Antipasti,Lamb chops,0.18181818181818185
+Antipasti,Bulgur pilavı,0.16666666666666666
+Antipasti,Stoofvlees,0.16666666666666666
+Antipasti,Belgian Endive,0.18181818181818185
+Vegetable Fritto Misto,Polpette,0.2307692307692308
+Vegetable Fritto Misto,Hummus,0.16666666666666666
+Vegetable Fritto Misto,Falafel,0.2
+Vegetable Fritto Misto,Latkeh,0.15384615384615385
+Vegetable Fritto Misto,Tulumba,0.2222222222222222
+Chicken Saltimbocca,Heart Meatball sandwich,0.16666666666666666
+Chicken Saltimbocca,Osso Bucco alla milanese,0.16666666666666666
+Chicken Saltimbocca,Polpette,0.16666666666666666
+Chicken Saltimbocca,Tahcheen,0.18181818181818185
+Chicken Saltimbocca,Latkeh,0.18181818181818185
+Chicken Saltimbocca,Vol-Au-Vent,0.16666666666666666
+Shrimp Scampi with Pasta,Barg kabab,0.18181818181818185
+Shrimp Scampi with Pasta,Kookoo sabzi,0.16666666666666666
+Shrimp Scampi with Pasta,Falafel,0.2
+Shrimp Scampi with Pasta,Tabouleh,0.16666666666666666
+Shrimp Scampi with Pasta,kisir,0.21428571428571427
+Shrimp Scampi with Pasta,Islim Kebabi,0.16666666666666666
+Shrimp Scampi with Pasta,Alinazik kebab,0.2
+Shrimp Scampi with Pasta,Midye Dolma,0.16666666666666666
+Heart Meatball sandwich,Adas polo,0.18181818181818185
+Heart Meatball sandwich,Kabab koubideh,0.2
+Heart Meatball sandwich,Barg kabab,0.2222222222222222
+Heart Meatball sandwich,Latkeh,0.18181818181818185
+Heart Meatball sandwich,Islim Kebabi,0.26666666666666666
+Penne all'arrabbiata,Pasta alla norma,0.13333333333333333
+Penne all'arrabbiata,Khoreshte Bademjan,0.17647058823529413
+Penne all'arrabbiata,Turlu,0.17647058823529413
+Penne all'arrabbiata,Bulgur pilavı,0.13333333333333333
+Penne all'arrabbiata,Menemen,0.15384615384615385
+Penne all'arrabbiata,Midye Dolma,0.15789473684210525
+Ragu alla bolognese,Osso Bucco alla milanese,0.125
+Ragu alla bolognese,İzmir köfte,0.15
+Ragu alla bolognese,Boulets Liégeoise,0.13636363636363635
+Ragu alla bolognese,Stoemp Aux Carottes,0.1176470588235294
+Ragu alla bolognese,Booyah,0.15
+Pasta alla norma,Mirza Ghasemi,0.25
+Risotto alla milanese,Adas polo,0.2
+Risotto alla milanese,Tahcheen,0.2
+Risotto alla milanese,Dolmeh,0.15384615384615385
+Risotto alla milanese,Morgh polou,0.18181818181818185
+Risotto alla milanese,Sholeh-zard,0.2
+Tortellini in brodo,Ash-e jo,0.14285714285714285
+Tortellini in brodo,Patlicanli pilav,0.15384615384615385
+Osso Bucco alla milanese,Abgousht,0.21052631578947367
+Osso Bucco alla milanese,Loubia polow,0.15
+Osso Bucco alla milanese,Patlicanli pilav,0.15789473684210525
+Osso Bucco alla milanese,Turlu,0.14285714285714285
+Osso Bucco alla milanese,İzmir köfte,0.2
+Osso Bucco alla milanese,Kadinbudu köfte,0.2352941176470588
+Osso Bucco alla milanese,Kabak Mücveri,0.17647058823529413
+Osso Bucco alla milanese,Midye Dolma,0.18181818181818185
+Osso Bucco alla milanese,Meatloaf,0.13043478260869565
+Osso Bucco alla milanese,Waterzooi,0.2
+Osso Bucco alla milanese,Booyah,0.2
+Osso Bucco alla milanese,Vol-Au-Vent,0.2352941176470588
+Osso Bucco alla milanese,Gegratineerd Witloof,0.15
+Polpette,Koufteh ghelgheli,0.2727272727272727
+Polpette,Dolmeh,0.14285714285714285
+Polpette,Mast-o khiar,0.13333333333333333
+Polpette,Naan-e barbari,0.2
+Polpette,Halva,0.2
+Polpette,Latkeh,0.18181818181818185
+Polpette,Israeli breakfast,0.2727272727272727
+Polpette,Tulumba,0.2857142857142857
+Polpette,Keşkül,0.2
+Polpette,Kadinbudu köfte,0.2727272727272727
+Polpette,Kabak Mücveri,0.18181818181818185
+Polpette,Fish Balls,0.16666666666666666
+Pizza Bianca,Tulumba,0.25
+Pizza Bianca,Boyoz,0.3333333333333333
+Pizza Bianca,Pide,0.25
+Pizza Bianca,Boulets Liégeoise,0.15384615384615385
+Pizza Bianca,Carbonnade À La Flamande,0.2222222222222222
+Cassata,Ciambella,0.13333333333333333
+Cassata,Sfogliatella,0.14285714285714285
+Cassata,Halva,0.13333333333333333
+Cassata,Rugelach,0.15789473684210525
+Cassata,Kazandibi,0.13333333333333333
+Cassata,Keşkül,0.13333333333333333
+Cassata,Waffles,0.14285714285714285
+Cassata,Belgian Loaf,0.15
+Cassata,Mousse Au Chocolat,0.14285714285714285
+Cassata,Speculoos,0.16666666666666666
+Cassata,Tuile,0.15384615384615385
+Cassata,Ninoofse Vlaai,0.17647058823529413
+Ciambella,Falafel,0.16666666666666666
+Ciambella,Latkeh,0.2222222222222222
+Ciambella,Sfenj,0.2857142857142857
+Ciambella,Waffles,0.2857142857142857
+Sfogliatella,Tulumba,0.2
+Sfogliatella,Boyoz,0.25
+Sfogliatella,Pide,0.2
+Ghormeh Sabzi,Khoreshte Karafs,0.21428571428571427
+Ghormeh Sabzi,Abgousht,0.1875
+Ghormeh Sabzi,Ashe reshteh,0.29411764705882354
+Ghormeh Sabzi,Mahi polow,0.2857142857142857
+Ghormeh Sabzi,Kookoo sabzi,0.25
+Ghormeh Sabzi,Koufteh ghelgheli,0.3076923076923077
+Ghormeh Sabzi,Ash-e jo,0.26666666666666666
+Ghormeh Sabzi,Gheyme Nesar,0.2777777777777778
+Ghormeh Sabzi,Alinazik Kebab,0.16666666666666666
+Khoreshte Karafs,Tahcheen,0.18181818181818185
+Khoreshte Karafs,Ashe reshteh,0.26666666666666666
+Khoreshte Karafs,Mahi polow,0.15384615384615385
+Khoreshte Karafs,Kookoo sabzi,0.2
+Khoreshte Karafs,Koufteh ghelgheli,0.16666666666666666
+Khoreshte Karafs,Ash-e jo,0.2307692307692308
+Khoreshte Karafs,Mast-o khiar,0.13333333333333333
+Khoreshte Karafs,Israeli breakfast,0.16666666666666666
+Khoreshte Karafs,Stuffed vine leaves,0.2
+Khoreshte Karafs,kisir,0.25
+Khoreshte Karafs,Borek,0.15384615384615385
+Khoreshte Karafs,Patlicanli pilav,0.25
+Khoreshte Bademjan,Abgousht,0.1875
+Khoreshte Bademjan,Mirza Ghasemi,0.18181818181818185
+Khoreshte Bademjan,Kabab koubideh,0.25
+Khoreshte Bademjan,Gheyme Nesar,0.21052631578947367
+Khoreshte Bademjan,Hummus,0.15384615384615385
+Khoreshte Bademjan,Tabouleh,0.15384615384615385
+Khoreshte Bademjan,Alinazik kebab,0.1875
+Khoreshte Bademjan,Turlu,0.17647058823529413
+Khoreshte Bademjan,Alinazik Kebab,0.16666666666666666
+Khoreshte Bademjan,Menemen,0.15384615384615385
+Khoreshte Bademjan,Karniyarik,0.26666666666666666
+Khoreshte Bademjan,Midye Dolma,0.15789473684210525
+Khoreshteh Fesenjan,Morgh polou,0.16666666666666666
+Khoreshteh Fesenjan,Chicken Shawarma,0.1111111111111111
+Khoreshteh Fesenjan,Pomegranate Chicken,0.2727272727272727
+Abgousht,Loubia polow,0.2
+Abgousht,Kookoo sibzamin,0.16666666666666666
+Abgousht,Kabab koubideh,0.16666666666666666
+Abgousht,Koufteh ghelgheli,0.2307692307692308
+Abgousht,Gheyme Nesar,0.29411764705882354
+Abgousht,Hummus,0.16666666666666666
+Abgousht,Turlu,0.1875
+Abgousht,Kadinbudu köfte,0.2307692307692308
+Abgousht,Menemen,0.16666666666666666
+Abgousht,Midye Dolma,0.16666666666666666
+Abgousht,Booyah,0.1875
+Adas polo,Tahcheen,0.3333333333333333
+Adas polo,Barg kabab,0.25
+Adas polo,Dolmeh,0.25
+Adas polo,Mast-o khiar,0.14285714285714285
+Adas polo,Morgh polou,0.3
+Adas polo,Gheyme Nesar,0.1875
+Adas polo,Sholeh-zard,0.2
+Adas polo,Mujadara,0.2857142857142857
+Adas polo,Biber Dolmasi,0.2727272727272727
+Loubia polow,Koufteh ghelgheli,0.14285714285714285
+Loubia polow,Gheyme Nesar,0.2222222222222222
+Loubia polow,Stoemp Aux Carottes,0.15384615384615385
+Loubia polow,Booyah,0.1875
+Tahcheen,Joojeh labab,0.25
+Tahcheen,Barg kabab,0.25
+Tahcheen,Koufteh ghelgheli,0.18181818181818185
+Tahcheen,Dolmeh,0.15384615384615385
+Tahcheen,Mast-o khiar,0.14285714285714285
+Tahcheen,Morgh polou,0.3
+Tahcheen,Gheyme Nesar,0.26666666666666666
+Tahcheen,Sholeh-zard,0.2
+Tahcheen,Chicken Shawarma,0.1176470588235294
+Tahcheen,Pomegranate Chicken,0.3
+Tahcheen,Patlicanli pilav,0.2727272727272727
+Tahcheen,Yayla çorbası,0.2
+Kookoo sibzamin,Joojeh labab,0.2857142857142857
+Kookoo sibzamin,Morgh polou,0.2
+Kookoo sibzamin,Matzo balls,0.2
+Kookoo sibzamin,Bulgur pilavı,0.2
+Kookoo sibzamin,Stoemp Aux Carottes,0.2222222222222222
+Kookoo sibzamin,Frieten,0.2
+Kookoo sibzamin,Carbonnade À La Flamande,0.18181818181818185
+Mirza Ghasemi,Shakshuka,0.4
+Mirza Ghasemi,kisir,0.2222222222222222
+Mirza Ghasemi,Alinazik kebab,0.3333333333333333
+Mirza Ghasemi,Patlicanli pilav,0.375
+Mirza Ghasemi,Kiymali pide,0.18181818181818185
+Mirza Ghasemi,Turlu,0.18181818181818185
+Mirza Ghasemi,Alinazik Kebab,0.2727272727272727
+Mirza Ghasemi,Biber Dolmasi,0.2222222222222222
+Mirza Ghasemi,Karniyarik,0.3333333333333333
+Kabab koubideh,Koufteh ghelgheli,0.2
+Kabab koubideh,Dolmeh,0.16666666666666666
+Kabab koubideh,Hummus,0.25
+Kabab koubideh,Israeli salad,0.2
+Kabab koubideh,Schnitzel,0.2222222222222222
+Kabab koubideh,İzmir köfte,0.25
+Kabab koubideh,Stoofvlees,0.2
+Kabab koubideh,Carbonnade À La Flamande,0.18181818181818185
+Joojeh labab,Morgh polou,0.375
+Joojeh labab,Pomegranate Chicken,0.2222222222222222
+Joojeh labab,Waterzooi,0.16666666666666666
+Joojeh labab,Vol-Au-Vent,0.2222222222222222
+Barg kabab,Mast-o khiar,0.16666666666666666
+Barg kabab,Labneh,0.25
+Barg kabab,Islim Kebabi,0.2307692307692308
+Barg kabab,Alinazik kebab,0.3
+Barg kabab,Kiymali pide,0.16666666666666666
+Barg kabab,Biber Dolmasi,0.2
+Barg kabab,Karniyarik,0.18181818181818185
+Ashe reshteh,Kookoo sabzi,0.13333333333333333
+Ashe reshteh,Ash-e jo,0.16666666666666666
+Ashe reshteh,Stuffed vine leaves,0.15
+Ashe reshteh,kisir,0.17647058823529413
+Ashe reshteh,Borek,0.17647058823529413
+Ashe reshteh,Patlicanli pilav,0.17647058823529413
+Mahi polow,Kookoo sabzi,0.3
+Mahi polow,Ash-e jo,0.21428571428571427
+Kookoo sabzi,Ash-e jo,0.16666666666666666
+Kookoo sabzi,Mast-o khiar,0.25
+Kookoo sabzi,Falafel,0.16666666666666666
+Kookoo sabzi,kisir,0.18181818181818185
+Kookoo sabzi,Patlicanli pilav,0.18181818181818185
+Koufteh ghelgheli,Ash-e jo,0.2307692307692308
+Koufteh ghelgheli,Gheyme Nesar,0.3333333333333333
+Koufteh ghelgheli,Israeli breakfast,0.16666666666666666
+Koufteh ghelgheli,Stoemp Aux Carottes,0.18181818181818185
+Torshi seer,Lamb chops,0.2222222222222222
+Dolmeh,Morgh polou,0.2307692307692308
+Dolmeh,Sholeh-zard,0.25
+Dolmeh,Israeli salad,0.14285714285714285
+Dolmeh,Pomegranate Chicken,0.14285714285714285
+Dolmeh,Stuffed vine leaves,0.17647058823529413
+Dolmeh,Kadinbudu köfte,0.14285714285714285
+Dolmeh,Biber Dolmasi,0.21428571428571427
+Dolmeh,Midye Dolma,0.16666666666666666
+Ash-e jo,Gheyme Nesar,0.29411764705882354
+Ash-e jo,Islim Kebabi,0.16666666666666666
+Ash-e jo,Patlicanli pilav,0.21428571428571427
+Ash-e jo,Alinazik Kebab,0.17647058823529413
+Ash-e jo,Karniyarik,0.2
+Ash-e jo,Midye Dolma,0.16666666666666666
+Mast-o khiar,Israeli salad,0.21428571428571427
+Mast-o khiar,Israeli breakfast,0.21428571428571427
+Mast-o khiar,Patlicanli pilav,0.2
+Mast-o khiar,Yayla çorbası,0.14285714285714285
+Morgh polou,Sholeh-zard,0.3
+Morgh polou,Pomegranate Chicken,0.2727272727272727
+Naan Berenji,Halva,0.2222222222222222
+Naan Berenji,Masghati,0.2222222222222222
+Naan Berenji,Sholeh-zard,0.2
+Naan Berenji,Kunefe,0.25
+Naan-e barbari,Nan-e taftoon,0.6
+Naan-e barbari,Jerusalem bagels,0.3333333333333333
+Naan-e barbari,Sufganiot,0.2222222222222222
+Naan-e barbari,Challa bread,0.3333333333333333
+Naan-e barbari,Sfenj,0.5
+Naan-e barbari,Pide,0.4
+Naan-e barbari,Kiymali pide,0.15384615384615385
+Naan-e barbari,Kadinbudu köfte,0.2
+Naan-e barbari,Kabak Mücveri,0.2222222222222222
+Naan-e barbari,Pom Koek,0.2222222222222222
+Naan-e barbari,Oliebollen,0.2222222222222222
+Gheyme Nesar,Patlicanli pilav,0.16666666666666666
+Gheyme Nesar,Alinazik Kebab,0.2
+Gheyme Nesar,Biber Dolmasi,0.16666666666666666
+Gheyme Nesar,Karniyarik,0.15789473684210525
+Gheyme Nesar,Midye Dolma,0.19047619047619047
+Gheyme Nesar,Booyah,0.15
+Halva,Masghati,0.6666666666666666
+Halva,Sholeh-zard,0.5714285714285714
+Halva,Kunefe,0.16666666666666666
+Halva,Irmik helvasi,0.2857142857142857
+Halva,Keşkül,0.42857142857142855
+Halva,Boyoz,0.2
+Halva,Ninoofse Vlaai,0.18181818181818185
+Masghati,Sholeh-zard,0.5714285714285714
+Masghati,Kunefe,0.16666666666666666
+Masghati,Irmik helvasi,0.2857142857142857
+Masghati,Keşkül,0.25
+Masghati,Ninoofse Vlaai,0.18181818181818185
+Nan-e taftoon,Jerusalem bagels,0.5
+Nan-e taftoon,Sufganiot,0.2857142857142857
+Nan-e taftoon,Challa bread,0.5
+Nan-e taftoon,Sfenj,0.4
+Nan-e taftoon,Khachapuri,0.2222222222222222
+Nan-e taftoon,Babka,0.2222222222222222
+Nan-e taftoon,Boyoz,0.3333333333333333
+Nan-e taftoon,Pide,0.6666666666666666
+Nan-e taftoon,Kiymali pide,0.18181818181818185
+Nan-e taftoon,Oliebollen,0.2857142857142857
+Sholeh-zard,Sahlab,0.2
+Sholeh-zard,Pomegranate Chicken,0.18181818181818185
+Sholeh-zard,Kunefe,0.15384615384615385
+Sholeh-zard,Baklava,0.14285714285714285
+Sholeh-zard,Irmik helvasi,0.25
+Sholeh-zard,Keşkül,0.2222222222222222
+Sholeh-zard,Ninoofse Vlaai,0.2727272727272727
+Hummus,Falafel,0.2727272727272727
+Hummus,Baba ganoush,0.375
+Hummus,Israeli salad,0.2
+Hummus,Chicken Shawarma,0.2
+Hummus,Mercimek Kofte,0.2
+Falafel,Baba ganoush,0.25
+Falafel,Tabouleh,0.16666666666666666
+Falafel,Chicken Shawarma,0.15789473684210525
+Falafel,Islim Kebabi,0.16666666666666666
+Falafel,Tulumba,0.2222222222222222
+Falafel,Mercimek Kofte,0.2307692307692308
+Falafel,İzmir köfte,0.1875
+Falafel,Waffles,0.18181818181818185
+Shakshuka,kisir,0.2
+Shakshuka,Patlicanli pilav,0.2
+Shakshuka,Kiymali pide,0.16666666666666666
+Shakshuka,Alinazik Kebab,0.25
+Shakshuka,Biber Dolmasi,0.2
+Shakshuka,Karniyarik,0.18181818181818185
+Baba ganoush,Israeli salad,0.18181818181818185
+Baba ganoush,Tabouleh,0.2222222222222222
+Baba ganoush,Chicken Shawarma,0.1875
+Baba ganoush,Islim Kebabi,0.2
+Baba ganoush,Mercimek Kofte,0.3
+Baba ganoush,Alinazik kebab,0.25
+Israeli salad,Tabouleh,0.2
+Israeli salad,Israeli breakfast,0.2727272727272727
+Israeli salad,Matzo balls,0.2727272727272727
+Israeli salad,kisir,0.25
+Israeli salad,Borek,0.25
+Israeli salad,Mercimek Kofte,0.16666666666666666
+Israeli salad,Turlu,0.21428571428571427
+Israeli salad,Kadinbudu köfte,0.2727272727272727
+Israeli salad,Kabak Mücveri,0.3
+Tabouleh,kisir,0.4444444444444444
+Tabouleh,Mercimek Kofte,0.2
+Tabouleh,Alinazik kebab,0.2727272727272727
+Jerusalem bagels,Sufganiot,0.2857142857142857
+Jerusalem bagels,Challa bread,0.5
+Jerusalem bagels,Sfenj,0.4
+Jerusalem bagels,Khachapuri,0.2222222222222222
+Jerusalem bagels,Babka,0.2222222222222222
+Jerusalem bagels,Boyoz,0.3333333333333333
+Jerusalem bagels,Pide,0.6666666666666666
+Jerusalem bagels,Kiymali pide,0.18181818181818185
+Jerusalem bagels,Oliebollen,0.2857142857142857
+Latkeh,Matzo balls,0.18181818181818185
+Latkeh,Simit,0.2857142857142857
+Latkeh,Kazandibi,0.2222222222222222
+Latkeh,Keşkül,0.2222222222222222
+Latkeh,Yayla çorbası,0.2
+Latkeh,Waffles,0.42857142857142855
+Latkeh,Belgian Loaf,0.21428571428571427
+Sufganiot,Challa bread,0.2857142857142857
+Sufganiot,Sfenj,0.25
+Sufganiot,Schnitzel,0.2
+Sufganiot,Kazandibi,0.2222222222222222
+Sufganiot,Pide,0.3333333333333333
+Sufganiot,Waffles,0.25
+Sufganiot,Lukken,0.2857142857142857
+Sufganiot,Tuile,0.2857142857142857
+Israeli breakfast,kisir,0.25
+Israeli breakfast,Borek,0.15384615384615385
+Israeli breakfast,Alinazik kebab,0.2307692307692308
+Israeli breakfast,Biber Dolmasi,0.25
+Sahlab,Kunefe,0.15384615384615385
+Sahlab,Kazandibi,0.375
+Sahlab,Irmik helvasi,0.25
+Sahlab,Keşkül,0.2222222222222222
+Sahlab,Waffles,0.25
+Sahlab,Ninoofse Vlaai,0.2727272727272727
+Kunafah,Tulumba,0.16666666666666666
+Kunafah,Kunefe,0.4
+Kugel,Frieten,0.3333333333333333
+Kugel,Salade Liégeoise,0.2
+Rugelach,Babka,0.2
+Rugelach,Simit,0.18181818181818185
+Rugelach,Kazandibi,0.25
+Rugelach,Waffles,0.16666666666666666
+Rugelach,Belgian Loaf,0.2352941176470588
+Cholent,Schnitzel,0.2727272727272727
+Cholent,Kadinbudu köfte,0.15384615384615385
+Cholent,Kabak Mücveri,0.16666666666666666
+Cholent,Vol-Au-Vent,0.15384615384615385
+Matzo balls,Borek,0.15384615384615385
+Matzo balls,Turlu,0.21428571428571427
+Matzo balls,Kadinbudu köfte,0.2727272727272727
+Matzo balls,Kabak Mücveri,0.3
+Chicken Shawarma,Mercimek Kofte,0.1111111111111111
+Chicken Shawarma,Alinazik Kebab,0.14285714285714285
+Challa bread,Tahini,0.3333333333333333
+Challa bread,Sfenj,0.4
+Challa bread,Khachapuri,0.2222222222222222
+Challa bread,Babka,0.2222222222222222
+Challa bread,Simit,0.5
+Challa bread,Boyoz,0.3333333333333333
+Challa bread,Pide,0.6666666666666666
+Challa bread,Kiymali pide,0.18181818181818185
+Challa bread,Oliebollen,0.2857142857142857
+Tahini,Burekas,0.2
+Tahini,Simit,0.3333333333333333
+Pomegranate Chicken,Baklava,0.21428571428571427
+Pomegranate Chicken,Ninoofse Vlaai,0.15384615384615385
+Sfenj,Khachapuri,0.2
+Sfenj,Pide,0.5
+Sfenj,Kiymali pide,0.16666666666666666
+Sfenj,Pom Koek,0.25
+Sfenj,Oliebollen,0.25
+Khachapuri,Babka,0.2307692307692308
+Khachapuri,Simit,0.2222222222222222
+Khachapuri,Pide,0.25
+Khachapuri,Waffles,0.2
+Khachapuri,Croquettes Aux Crevettes Grises,0.17647058823529413
+Khachapuri,Gegratineerd Witloof,0.21428571428571427
+Khachapuri,Oliebollen,0.2727272727272727
+Babka,Simit,0.2222222222222222
+Babka,Baklava,0.2
+Babka,Keşkül,0.3
+Babka,Pide,0.25
+Babka,Croquettes Aux Crevettes Grises,0.17647058823529413
+Babka,Gegratineerd Witloof,0.21428571428571427
+Babka,Oliebollen,0.2727272727272727
+Lamb chops,Konijn Met Bier,0.14285714285714285
+Stuffed vine leaves,kisir,0.1875
+Stuffed vine leaves,Islim Kebabi,0.15
+Stuffed vine leaves,Patlicanli pilav,0.26666666666666666
+Stuffed vine leaves,Biber Dolmasi,0.1875
+Stuffed vine leaves,Karniyarik,0.25
+Stuffed vine leaves,Midye Dolma,0.4375
+Burekas,Borek,0.3
+Burekas,Kadinbudu köfte,0.2
+Schnitzel,İzmir köfte,0.2307692307692308
+Schnitzel,Kadinbudu köfte,0.18181818181818185
+Schnitzel,Kabak Mücveri,0.2
+Schnitzel,Boulets Liégeoise,0.2
+Schnitzel,Vol-Au-Vent,0.18181818181818185
+kisir,Alinazik kebab,0.3076923076923077
+kisir,Patlicanli pilav,0.3333333333333333
+kisir,Alinazik Kebab,0.26666666666666666
+kisir,Biber Dolmasi,0.3333333333333333
+kisir,Karniyarik,0.21428571428571427
+kisir,Midye Dolma,0.17647058823529413
+Simit,Kazandibi,0.3333333333333333
+Simit,Keşkül,0.3333333333333333
+Simit,Boyoz,0.3333333333333333
+Simit,Yayla çorbası,0.2857142857142857
+Simit,Waffles,0.4
+Simit,Croquettes Aux Crevettes Grises,0.15384615384615385
+Simit,Gegratineerd Witloof,0.2
+Simit,Oliebollen,0.2857142857142857
+Islim Kebabi,Mercimek Kofte,0.1875
+Islim Kebabi,Alinazik kebab,0.2352941176470588
+Islim Kebabi,Patlicanli pilav,0.17647058823529413
+Islim Kebabi,Kiymali pide,0.15789473684210525
+Islim Kebabi,Alinazik Kebab,0.21052631578947367
+Islim Kebabi,İzmir köfte,0.2222222222222222
+Islim Kebabi,Karniyarik,0.4
+Islim Kebabi,Midye Dolma,0.2
+Katmer,Kunefe,0.2
+Tulumba,Boyoz,0.5
+Tulumba,Pide,0.3333333333333333
+Tulumba,Lukken,0.25
+Tulumba,Tuile,0.25
+Kunefe,Borek,0.21428571428571427
+Kunefe,Irmik helvasi,0.18181818181818185
+Kunefe,Keşkül,0.16666666666666666
+Borek,Kadinbudu köfte,0.25
+Borek,Kabak Mücveri,0.16666666666666666
+Borek,Stoemp Aux Carottes,0.16666666666666666
+Baklava,Belgian Loaf,0.16666666666666666
+Baklava,Pom Koek,0.14285714285714285
+Baklava,Speculoos,0.1875
+Alinazik kebab,Patlicanli pilav,0.4166666666666667
+Alinazik kebab,Kiymali pide,0.1875
+Alinazik kebab,Turlu,0.1875
+Alinazik kebab,Alinazik Kebab,0.3333333333333333
+Alinazik kebab,İzmir köfte,0.1875
+Alinazik kebab,Biber Dolmasi,0.3076923076923077
+Alinazik kebab,Karniyarik,0.38461538461538464
+Alinazik kebab,Midye Dolma,0.16666666666666666
+Kazandibi,Keşkül,0.25
+Kazandibi,Yayla çorbası,0.2222222222222222
+Kazandibi,Waffles,0.5
+Kazandibi,Belgian Loaf,0.2307692307692308
+Kazandibi,Pom Koek,0.2222222222222222
+Kazandibi,Lukken,0.3333333333333333
+Kazandibi,Speculoos,0.2727272727272727
+Kazandibi,Tuile,0.3333333333333333
+Kazandibi,Ninoofse Vlaai,0.3
+Irmik helvasi,Keşkül,0.2857142857142857
+Irmik helvasi,Ninoofse Vlaai,0.2
+Patlicanli pilav,Turlu,0.2
+Patlicanli pilav,Alinazik Kebab,0.35714285714285715
+Patlicanli pilav,Biber Dolmasi,0.3333333333333333
+Patlicanli pilav,Yayla çorbası,0.2727272727272727
+Patlicanli pilav,Karniyarik,0.3076923076923077
+Patlicanli pilav,Midye Dolma,0.25
+Keşkül,Yayla çorbası,0.2222222222222222
+Keşkül,Waffles,0.2857142857142857
+Keşkül,Ninoofse Vlaai,0.18181818181818185
+Boyoz,Pide,0.5
+Boyoz,Lukken,0.3333333333333333
+Boyoz,Tuile,0.3333333333333333
+Pide,Kiymali pide,0.2
+Pide,Lukken,0.25
+Pide,Oliebollen,0.3333333333333333
+Pide,Tuile,0.25
+Kiymali pide,İzmir köfte,0.3333333333333333
+Kiymali pide,Biber Dolmasi,0.2857142857142857
+Kiymali pide,Karniyarik,0.1875
+Turlu,İzmir köfte,0.25
+Turlu,Kadinbudu köfte,0.21428571428571427
+Turlu,Kabak Mücveri,0.2307692307692308
+Turlu,Karniyarik,0.1875
+Turlu,Midye Dolma,0.15789473684210525
+Turlu,Booyah,0.17647058823529413
+Alinazik Kebab,Karniyarik,0.3333333333333333
+Alinazik Kebab,Midye Dolma,0.21052631578947367
+İzmir köfte,Kadinbudu köfte,0.21428571428571427
+İzmir köfte,Biber Dolmasi,0.2
+İzmir köfte,Bulgur pilavı,0.21428571428571427
+İzmir köfte,Kabak Mücveri,0.2307692307692308
+İzmir köfte,Karniyarik,0.1875
+İzmir köfte,Boulets Liégeoise,0.2222222222222222
+İzmir köfte,Booyah,0.17647058823529413
+İzmir köfte,Carbonnade À La Flamande,0.2
+Kadinbudu köfte,Yayla çorbası,0.18181818181818185
+Kadinbudu köfte,Kabak Mücveri,0.4444444444444444
+Kadinbudu köfte,Midye Dolma,0.1875
+Kadinbudu köfte,Boulets Liégeoise,0.1875
+Biber Dolmasi,Karniyarik,0.21428571428571427
+Biber Dolmasi,Midye Dolma,0.17647058823529413
+Yayla çorbası,Waffles,0.25
+Yayla çorbası,Oliebollen,0.2
+Bulgur pilavı,Menemen,0.2
+Kabak Mücveri,Boulets Liégeoise,0.2
+Kabak Mücveri,Vol-Au-Vent,0.18181818181818185
+Menemen,Vol-Au-Vent,0.2
+Karniyarik,Midye Dolma,0.3125
+Boulets Liégeoise,Croquettes Aux Crevettes Grises,0.14285714285714285
+Boulets Liégeoise,Stoofvlees,0.1875
+Boulets Liégeoise,Carbonnade À La Flamande,0.3333333333333333
+Waffles,Belgian Loaf,0.25
+Waffles,Lukken,0.4
+Waffles,Gegratineerd Witloof,0.18181818181818185
+Waffles,Oliebollen,0.25
+Waffles,Speculoos,0.3
+Waffles,Tuile,0.4
+Waffles,Ninoofse Vlaai,0.2
+Moules Frites,Fish Balls,0.14285714285714285
+Moules Frites,Carbonnade À La Flamande,0.13333333333333333
+Meatloaf,Waterzooi,0.15789473684210525
+Meatloaf,Stoemp Aux Carottes,0.125
+Meatloaf,Croquettes Aux Crevettes Grises,0.2
+Meatloaf,Entrecote Bordelaise,0.35294117647058826
+Meatloaf,Gegratineerd Witloof,0.16666666666666666
+Meatloaf,Carbonnade À La Flamande,0.17647058823529413
+Konijn Met Bier,Stoemp Aux Carottes,0.14285714285714285
+Konijn Met Bier,Stoofvlees,0.21428571428571427
+Konijn Met Bier,Belgian Endive,0.14285714285714285
+Waterzooi,Stoemp Aux Carottes,0.2307692307692308
+Waterzooi,Croquettes Aux Crevettes Grises,0.15789473684210525
+Waterzooi,Entrecote Bordelaise,0.2352941176470588
+Waterzooi,Booyah,0.25
+Waterzooi,Vol-Au-Vent,0.21428571428571427
+Waterzooi,Gegratineerd Witloof,0.1875
+Stoemp Aux Carottes,Entrecote Bordelaise,0.13333333333333333
+Stoemp Aux Carottes,Booyah,0.2307692307692308
+Stoemp Aux Carottes,Salade Liégeoise,0.2857142857142857
+Stoemp Aux Carottes,Gegratineerd Witloof,0.25
+Stoemp Aux Carottes,Belgian Endive,0.2
+Frieten,Salade Liégeoise,0.3333333333333333
+Croquettes Aux Crevettes Grises,Belgian Loaf,0.15
+Croquettes Aux Crevettes Grises,Entrecote Bordelaise,0.15
+Croquettes Aux Crevettes Grises,Stoofvlees,0.1875
+Croquettes Aux Crevettes Grises,Vol-Au-Vent,0.26666666666666666
+Croquettes Aux Crevettes Grises,Gegratineerd Witloof,0.5
+Croquettes Aux Crevettes Grises,Croque Madame,0.15384615384615385
+Croquettes Aux Crevettes Grises,Carbonnade À La Flamande,0.25
+Belgian Loaf,Pom Koek,0.21428571428571427
+Belgian Loaf,Gegratineerd Witloof,0.17647058823529413
+Belgian Loaf,Speculoos,0.5384615384615384
+Entrecote Bordelaise,Carbonnade À La Flamande,0.1875
+Pom Koek,Speculoos,0.25
+Fish Balls,Vol-Au-Vent,0.16666666666666666
+Fish Balls,Carbonnade À La Flamande,0.3636363636363637
+Lukken,Speculoos,0.2
+Lukken,Tuile,0.5
+Stoofvlees,Belgian Endive,0.18181818181818185
+Stoofvlees,Carbonnade À La Flamande,0.3636363636363637
+Booyah,Carbonnade À La Flamande,0.2
+Vol-Au-Vent,Gegratineerd Witloof,0.4545454545454545
+Vol-Au-Vent,Croque Madame,0.25
+Gegratineerd Witloof,Croque Madame,0.2
+Gegratineerd Witloof,Belgian Endive,0.15384615384615385
+Speculoos,Tuile,0.2
