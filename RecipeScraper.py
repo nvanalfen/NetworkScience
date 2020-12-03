@@ -164,4 +164,18 @@ def flexible_gather(master_file, web_structure_file, output_file_name="Uncleaned
             #recipes[ name ] = ingredients
 
     save_uncleaned_data(output_file_name, recipes)
+
+
+def main():
+    # Examples
+    # python3 RecipeScraper.py Belgium
     
+    import argparse
+    parser = argparse.ArgumentParser()
+    parser.add_argument('country', metavar='country', type=str, nargs=1,
+                        help='Scrape the given country, using recipes_so_far.csv and website_scrape_info.csv, and output to Uncleaned Data/Uncleaned_data.txt.')
+    args = parser.parse_args()
+    flexible_gather('recipes_so_far.csv', 'website_scrape_info.csv', country=args.country[0])
+
+if __name__ == '__main__':
+    main()
