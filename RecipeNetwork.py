@@ -295,30 +295,117 @@ def plot(x, y, label, scatter=True):
         
     plt.legend()
 
-def test(directed=False, remove_ingredients=None, parent_f_name="parent_ingredients.csv"):
-    x = []
-    y = []
-    labels = []
-    parent_ingredients = get_parent_ingredients_to_exclude(parent_f_name)
-    if directed:
-        foods, edges = create_directed_weighted_network("Final_Food_List.xlsx", remove_ingredients=remove_ingredients, parent_ingredients=parent_ingredients)
-        in_deg, out_deg = weight_distribution(foods, edges, directed=directed)
-        in_w, in_prob = cumulative_weight_distribution(in_deg)
-        out_w, out_prob = cumulative_weight_distribution(out_deg)
-        x = [in_w, out_w]
-        y = [in_prob, out_prob]
-        labels = ["In", "Out"]
-    else:
-        foods, edges = create_undirected_weighted_network("Final_Food_List.xlsx", remove_ingredients=remove_ingredients, parent_ingredients=parent_ingredients)
-        deg = weight_distribution(foods, edges)
-        w, prob = cumulative_weight_distribution(deg)
-        x = [w]
-        y = [prob]
-        labels = ["Weight Distribution"]
+###############################################################################
+##### ANALYSIS ################################################################
+###############################################################################
+
+def graph_from_lists(nodelist, edgelist):
+    G = nx.Graph()
+    
+    nodes = pd.read_excel(nodelist)
+    edges = pd.read_csv(edgelist)
+    
+    for i in nodes.index:
+        G.add_node( nodes["Id"][i], country=nodes["Country"][i], ingredients=nodes["Ingredients"][i] )
         
-    print(len(edges))
-    plot(x, y, labels)
+    for i in edges.index:
+        G.add_edge( edges["src"][i], edges["trg"][i], weight=edges["weight"][i], distance=1/edges["weight"][i] )
     
-    edge_weights, edge_prob = cumulative_edge_weight_distribution(edges)
-    plot([edge_weights],[edge_prob],label=["Edge Weights"])
+    return G
+
+def average_path_length(G, country=None, weight="distance"):
     
+    # Only use the giant component
+    giant = max( nx.connected_components(G) )
+    used = giant
+    
+    # Only look at a specific country
+    if not country is None:
+        new_used = set()
+        for food in used:
+            if G.nodes[food]["country"] == country:
+                new_used.add(food)
+        used = new_used
+    
+    total_distance = 0
+    number_paths = 0
+    for path_list in nx.algorithms.all_pairs_dijkstra_path_length(G, weight=weight):
+        # Iterate through all the shortest paths
+        # Only worry about those nodes in our used list
+        node_A = path_list[0]
+        if node_A in used:
+            paths = path_list[1]
+            for node_B in paths:
+                if node_A != node_B and node_B in giant:
+                    total_distance += paths[node_B]
+                    number_paths += 1
+    
+    return total_distance/number_paths
+
+def cumulative_probability(data):
+    data.sort()
+    prob = []
+    tot = len(data)
+    prob = [ ( len(data[i:]) )/tot for i in range(len(data)) ]
+    
+    return data, prob
+
+def plot_distributions(data, attribute, country=None):
+    xs = []
+    ys = []
+    labels = []
+    
+    for key in data:
+        if country is None or key == country:
+            xs.append( data[key][attribute]["value"] )
+            ys.append( data[key][attribute]["probability"] )
+            if key is None:
+                labels.append( "Total" )
+            else:
+                labels.append( key )
+    
+    plot(xs, ys, labels)
+
+def cluster_of_k(clustering, k):
+    counts = {}
+    value = {}
+    for i in range(len(clustering)):
+        if not k[i] in counts and not k[i] in value:
+            counts[k[i]] = 0
+            value[k[i]] = 0
+        counts[k[i]] += 1
+        value[k[i]] += clustering[i]
+    
+    val = []
+    degs = []
+    for key in value:
+        val.append( value[key]/counts[key] )
+        degs.append(key)
+    
+    return degs, val
+   
+def distributions(G, country=None):
+    cluster_coeff = []
+    weighted_degree = []
+    degree = []
+    
+    clusters = nx.algorithms.clustering(G)
+
+    for node in G.nodes(data=True):
+        name = node[0]
+        
+        if country is None or node[1]["country"] == country:
+            cluster_coeff.append( clusters[name] )
+            weighted_degree.append( G.degree(name, "weight") )
+            degree.append( G.degree(name) )
+    
+    cluster_k, cluster_val = cluster_of_k(cluster_coeff, degree)
+    cluster_coeff, cluster_prob = cumulative_probability(cluster_coeff)
+    weighted_degree, weighted_prob = cumulative_probability(weighted_degree)
+    degree, prob = cumulative_probability(degree)
+    
+    c_summary = { "value":cluster_coeff, "probability":cluster_prob, "average":np.mean(cluster_coeff), "c":cluster_val, "k":cluster_k }
+    w_summary = { "value":weighted_degree, "probability":weighted_prob, "average":np.mean(weighted_degree) }
+    d_summary = { "value":degree, "probability":prob, "average":np.mean(degree) }
+    summary = {"clustering":c_summary, "weighted degree":w_summary, "degree":d_summary}
+    return summary
