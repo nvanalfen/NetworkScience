@@ -299,6 +299,27 @@ def plot(x, y, label, scatter=True):
 ##### ANALYSIS ################################################################
 ###############################################################################
 
+def graph_from_lists_country(country):
+    # The other function creates a network of all countries.
+    # Here we just want a network of foods from a specific country.
+    # Then we can draw conclusions from it (distributions, etc).
+    
+    G = nx.Graph()
+    
+    nodes = pd.read_excel('final_node_list.xlsx')
+    edges = pd.read_csv('full_edgelist.csv')
+    
+    for i in nodes.index:
+        if nodes["Country"][i] == country:
+            G.add_node( nodes["Id"][i], country=nodes["Country"][i], ingredients=nodes["Ingredients"][i] )
+        
+    for i in edges.index:
+        graph_nodes = G.nodes
+        if edges['src'][i] in graph_nodes and edges['trg'][i] in graph_nodes:
+            G.add_edge( edges["src"][i], edges["trg"][i], weight=edges["weight"][i], distance=1/edges["weight"][i] )
+    
+    return G
+
 def graph_from_lists(nodelist, edgelist):
     G = nx.Graph()
     
@@ -363,8 +384,9 @@ def plot_distributions(data, attribute, country=None):
                 labels.append( "Total" )
             else:
                 labels.append( key )
-    
+
     plot(xs, ys, labels)
+    matplotlib.pyplot.show()
 
 def cluster_of_k(clustering, k):
     counts = {}
@@ -409,3 +431,26 @@ def distributions(G, country=None):
     d_summary = { "value":degree, "probability":prob, "average":np.mean(degree) }
     summary = {"clustering":c_summary, "weighted degree":w_summary, "degree":d_summary}
     return summary
+
+def get_averages(country):
+    g = graph_from_lists_country(country)
+    d = distributions(g)
+    p = average_path_length(g)
+    for attribute in d:
+        print(attribute, d[attribute]['average'])
+
+    print('average path length', p)
+
+def main():
+    # Example
+    # python3 RecipeNetwork.py Belgium
+    
+    import argparse
+    parser = argparse.ArgumentParser()
+    parser.add_argument('country', metavar='country', type=str, nargs=1,
+                        help='Parse the edge and node list, filter for just the country network, and print its average statistics.')
+    args = parser.parse_args()
+    get_averages(args.country[0])
+    
+if __name__ == '__main__':
+    main()
