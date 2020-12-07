@@ -436,21 +436,33 @@ def get_averages(country):
     g = graph_from_lists_country(country)
     d = distributions(g)
     p = average_path_length(g)
-    for attribute in d:
-        print(attribute, d[attribute]['average'])
+    d['pathlength'] = p
+    
+    return d
 
-    print('average path length', p)
+def plot_pk_of_each_country_in_one_graph():
+
+    import matplotlib.pyplot
+    
+    countries = ['Argentina', 'Belgium', 'Iran', 'Israel', 'Italy', 'Japan', 'Spain', 'Sweden', 'Turkey', 'USA']
+
+    for c in countries:
+        d = get_averages(c)
+        x_axis = d['degree']['value']
+        y_axis = d['degree']['probability']
+        matplotlib.pyplot.plot(x_axis, y_axis, label=c)
+
+    axis = matplotlib.pyplot.gca()
+    axis.set_title('Individual Countries: Probability of Degree')
+    axis.set_xlabel('Degree')
+    axis.set_ylabel('Probability')
+    axis.legend()
+
+    matplotlib.pyplot.show()
+        
 
 def main():
-    # Example
-    # python3 RecipeNetwork.py Belgium
-    
-    import argparse
-    parser = argparse.ArgumentParser()
-    parser.add_argument('country', metavar='country', type=str, nargs=1,
-                        help='Parse the edge and node list, filter for just the country network, and print its average statistics.')
-    args = parser.parse_args()
-    get_averages(args.country[0])
+    plot_pk_of_each_country_in_one_graph()
     
 if __name__ == '__main__':
     main()
