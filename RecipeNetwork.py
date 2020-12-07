@@ -440,7 +440,7 @@ def get_averages(country):
     
     return d
 
-def plot_pk_of_each_country_in_one_graph():
+def plot_ck_of_each_country_in_one_graph():
 
     import matplotlib.pyplot
     
@@ -448,13 +448,17 @@ def plot_pk_of_each_country_in_one_graph():
 
     for c in countries:
         d = get_averages(c)
-        x_axis = d['degree']['value']
-        y_axis = d['degree']['probability']
-        matplotlib.pyplot.plot(x_axis, y_axis, label=c)
+        x_axis = d['clustering']['value']
+        y_axis = d['clustering']['probability']
+
+        # while (x_axis[0] == 0 or x_axis[0] == 0.0)
+        # print(x_axis)
+        # print(y_axis)
+        matplotlib.pyplot.scatter(x_axis, y_axis, label=c)
 
     axis = matplotlib.pyplot.gca()
-    axis.set_title('Individual Countries: Probability of Degree')
-    axis.set_xlabel('Degree')
+    axis.set_title('Individual Countries: Probability of Clustering')
+    axis.set_xlabel('Clustering')
     axis.set_ylabel('Probability')
     axis.legend()
 
@@ -462,7 +466,7 @@ def plot_pk_of_each_country_in_one_graph():
         
 
 def main():
-    plot_pk_of_each_country_in_one_graph()
+    plot_ck_of_each_country_in_one_graph()
     
 if __name__ == '__main__':
     main()
